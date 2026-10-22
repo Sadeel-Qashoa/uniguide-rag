@@ -1,0 +1,84 @@
+جامعة فلسطين التقنية - خضوري
+Training Knowledge File: Registration, Academic Advising, and Registration Procedures
+Source Type: University Procedures Manual + Frequently Asked Questions + Academic Calendar
+
+Note: This is a training summary based on official university pages, not a registration announcement for a specific student cohort. Students should verify the latest announcements before making actual decisions.
+
+=== REGISTRATION AND ACADEMIC ADVISING ===
+
+The Admissions and Registration Unit announces academic advising, tuition payment, and course registration dates through university communication channels and the student portal.
+
+Continuing students register for courses through their student portal during the officially announced registration periods.
+
+Academic advisors help students select courses and determine the appropriate number of credit hours. Advising notes are displayed in the system.
+
+Registration periods vary between semesters, and registration dates may differ between student cohorts. Therefore, the registration date for a specific cohort cannot be determined from general procedures alone.
+
+Source: https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=27&page=ProcedureDetails
+
+=== ELECTRONIC STUDENT PORTAL ===
+
+The electronic registration service allows students to register for courses and add or drop courses when the registration period is open and the student meets university requirements.
+
+The portal also displays information about minimum and maximum credit hours, semester GPA, and cumulative GPA.
+
+Source: https://edugate.ptuk.edu.ps/temp/StudentUM.pdf
+
+=== ADD AND DROP DATES — ACADEMIC YEAR 2026/2027 ===
+
+First Semester 2026/2027:
+The add and drop week begins on 2026/09/13.
+The deadline for adding or dropping courses and submitting study deferment requests is 2026/09/17.
+Late course withdrawal and absence tracking begin on 2026/09/20.
+During the add and drop period, students can modify
+their registered courses by adding or dropping courses.
+
+Second Semester 2026/2027:
+Registration for the second semester begins on 2027/01/17 according to the academic calendar.
+The add and drop week begins on 2027/01/24.
+The deadline for adding or dropping courses and submitting study deferment requests is 2027/01/28.
+Late course withdrawal and absence tracking begin on 2027/01/31.
+
+Summer Semester 2026/2027:
+Summer semester registration is listed for 2027/06/18.
+The add and drop period begins on 2027/06/21.
+Late course withdrawal and absence tracking begin on 2027/06/24.
+
+Source: https://ptuk.edu.ps/ar/academic-calendar.php
+
+=== ACADEMIC COURSE LOAD — INFORMATION FROM THE FAQ PAGE ===
+
+The university FAQ page states that the standard academic course load ranges from 12 to 19 credit hours.
+
+It states that students under academic warning may register for a maximum of 15 credit hours with the approval of the department head.
+
+The FAQ also describes situations in which students may register for up to 21 credit hours, including graduating students or students with a cumulative average of 80% or higher. It also mentions a special case for diploma students.
+
+In exceptional circumstances, students may register for 9 credit hours with the dean's approval.
+
+Important: Another university regulations page specifies a different general maximum course load. Therefore, students should verify the regulations applicable to their academic program and individual situation before relying on a specific maximum.
+
+Source: https://www.ptuk.edu.ps/ar/aarticlepage.php?artid=190
+Comparison Source: https://ptuk.edu.ps/ar/admissions/aarticlepage.php?artid=1860
+
+=== STUDY DEFERMENT AND SEMESTER WITHDRAWAL ===
+
+According to the university's registration procedures, a student may submit a semester withdrawal request through the student portal during the add and drop week.
+
+During this period, the request is treated as a study deferment, with tuition fees retained according to the published procedure.
+
+After the add and drop week and until the end of the tenth week, the procedure states that the student is considered withdrawn from the semester, loses the tuition fees, and the semester counts toward the maximum permitted study duration. Certain exceptions require approval from the relevant authorities.
+
+The procedures also specify conditions for study deferment, including that the student must not be in their first semester at the university or in their academic major and must not have exhausted the permitted deferment period.
+
+These general procedures do not replace confirmation of an individual student's academic status with the Admissions and Registration Unit.
+
+Source: https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=32&page=ProcedureDetails
+
+=== RESPONSE GUIDELINES FOR UNIGUIDE AI ===
+
+If the system is asked about the registration date for a specific student cohort and no relevant announcement exists in the documents, it must state that the date is not available in the current knowledge base.
+
+If official sources contain conflicting information about the maximum number of credit hours, the system must acknowledge the conflict and recommend verification with the Admissions and Registration Unit rather than choosing an unsupported number.
+
+When answering questions about dates, the system must specify the academic semester and year and provide the source URL.
