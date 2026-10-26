@@ -37,16 +37,23 @@ for name, text in docs.items():
             metadatas=[{"source": name}]
         )
 
-def retrieve(question, k=3):
+def retrieve(question, k=3, max_dist=1.0):
     res = col.query(
         query_texts=[question],
         n_results=k
     )
 
-    return list(zip(
+    rows = zip(
         res["documents"][0],
-        res["metadatas"][0]
-    ))
+        res["metadatas"][0],
+        res["distances"][0]
+    )
+
+    return [
+        (d, m)
+        for d, m, dist in rows
+        if dist <= max_dist
+    ]
 
 
 def build_prompt(question, hits):
@@ -78,11 +85,14 @@ def llm(prompt):
 
 def ask(question):
     hits = retrieve(question)
+    if not hits:
+        return "I don't know.", []
     answer = llm(build_prompt(question, hits))
     return answer, [m["source"] for _, m in hits]
 
 if __name__ == "__main__":
-    question =  "Can I change my registered courses in September 2026?"
+    question = "Which academic week are we currently in as of October 23, 2026?"
+    #"Can I change my registered courses in September 2026?"
 
     answer, sources = ask(question)
     hits = retrieve(question)
