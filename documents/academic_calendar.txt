@@ -1,64 +1,173 @@
+# Academic Calendar | التقويم الأكاديمي
 
-Source: Palestine Technical University - Kadoorie (PTUK)
-Title: Academic Calendar
-Academic Year: 2026-2027
-URL: https://www.ptuk.edu.ps/ar/academic-calendar.php
+Source: Palestine Technical University – Kadoorie (PTUK)  
+Academic Year: 2026–2027  
+Source URL: https://www.ptuk.edu.ps/ar/academic-calendar.php
 
-FIRST SEMESTER
+Note | ملاحظة:
+Exam dates are based on the PTUK academic calendar. Practical final examinations are scheduled first, followed by examination periods generally used for theoretical finals. Where the official calendar uses only "Final Examinations," the theoretical classification reflects the usual university schedule rather than an explicitly stated classification.
 
-2026/09/13 to 2026/09/17: Add and drop week; classes begin.
-2026/09/17: Last day to add or drop courses and submit study deferment requests.
-2026/09/20: Late course withdrawal period begins; absence tracking begins.
-2026/10/25 to 2026/10/29: Practical midterm examinations.
-2026/11/01 to 2026/11/05: Theoretical midterm examinations.
-2026/11/08 to 2026/11/12: Continuation of theoretical midterm examinations.
-2026/11/15: Independence Day (holiday).
-2026/12/08: Last day to enter coursework grades.
-2026/12/10: Last day for late course withdrawal.
-2026/12/13 to 2026/12/17: Practical final examinations.
-2026/12/20 to 2026/12/24: Final examinations.
-2026/12/25: Christmas Day - Western calendar (holiday).
-2026/12/26 to 2026/12/31: Theoretical final examinations.
-2027/01/01: New Year's Day (holiday).
-2027/01/02 to 2027/01/03: Final examinations.
-2027/01/04: Isra and Mi'raj (holiday).
-2027/01/05 to 2027/01/06: Final examinations.
-2027/01/07: Christmas Day - Eastern calendar (holiday).
-2027/01/16: Announcement of results and end of the first semester; faculty vacation begins.
+---
 
-SECOND SEMESTER
+## FIRST SEMESTER | الفصل الأول
 
-2027/01/17 to 2027/01/22: Registration for the second semester.
-2027/01/23: End of faculty vacation.
-2027/01/24 to 2027/01/28: Add and drop week; classes are held.
-2027/01/28: Last day to add or drop courses and submit study deferment requests.
-2027/01/31: Late course withdrawal period begins; absence tracking begins.
-2027/03/08: Women's Day (holiday).
-2027/03/10: Eid al-Fitr (holiday, as listed in the calendar).
-2027/03/14 to 2027/03/18: Practical midterm examinations.
-2027/03/21 to 2027/03/25: Theoretical midterm examinations.
-2027/03/28 to 2027/04/01: Continuation of theoretical midterm examinations.
-2027/04/29: Last day to enter semester grades and withdraw from courses late.
-2027/05/01: Labor Day (holiday).
-2027/05/02: Easter (holiday).
-2027/05/03 to 2027/05/06: Practical final examinations.
-2027/05/09 to 2027/05/13: Final examinations.
-2027/05/15: Eid al-Adha (holiday, as listed in the calendar).
-2027/05/22 to 2027/05/27: Final examinations.
-2027/05/29 to 2027/06/03: Final examinations.
-2027/06/06: Islamic New Year (holiday).
-2027/06/13: Announcement of results and end of the second semester; faculty vacation begins.
+**Add and Drop Period | فترة السحب والإضافة**  
+September 13–17, 2026. Classes begin during this period.
 
-SUMMER SEMESTER
+**Last Day for Add/Drop and Study Deferment Requests | آخر موعد للسحب والإضافة وتقديم طلبات تأجيل الدراسة**  
+September 17, 2026.
 
-2027/06/18: Registration for the summer semester.
-2027/06/21 to 2027/06/23: Add and drop period; classes are held.
-2027/06/24: Late course withdrawal period begins; absence tracking begins.
-2027/07/11 to 2027/07/15: Practical midterm examinations.
-2027/07/18 to 2027/07/22: Theoretical midterm examinations.
-2027/07/28: Last day to enter midterm and coursework grades.
-2027/07/29: Last day for late course withdrawal.
-2027/08/01 to 2027/08/05: Practical final examinations.
-2027/08/05: Last day of classes.
-2027/08/07 to 2027/08/12: Final examinations.
-2027/08/19: Announcement of results and end of the academic year.
+**Late Course Withdrawal Begins | بداية السحب المتأخر من المساقات**  
+September 20, 2026. Absence tracking also begins on this date.
+
+**Practical Midterm Examinations | الامتحانات النصفية العملية**  
+October 25–29, 2026.
+
+**Theoretical Midterm Examinations | الامتحانات النصفية النظرية**  
+November 1–12, 2026, across two examination weeks:
+- Week 1: November 1–5, 2026.
+- Week 2: November 8–12, 2026.
+
+**Independence Day | عيد الاستقلال**  
+November 15, 2026 — Holiday.
+
+**Last Day to Enter Coursework Grades | آخر موعد لإدخال علامات الأعمال الفصلية**  
+December 8, 2026.
+
+**Last Day for Late Course Withdrawal | آخر موعد للسحب المتأخر من المساقات**  
+December 10, 2026.
+
+**Practical Final Examinations | الامتحانات النهائية العملية**  
+December 13–17, 2026.
+
+**Final Examinations – Generally Theoretical | الامتحانات النهائية – النظرية عادةً**  
+December 20, 2026 – January 6, 2027, across four examination periods:
+- Period 1: December 20–24, 2026 — Final Examinations | الامتحانات النهائية.
+- Period 2: December 26–31, 2026 — Theoretical Final Examinations | الامتحانات النهائية النظرية.
+- Period 3: January 2–3, 2027 — Final Examinations | الامتحانات النهائية.
+- Period 4: January 5–6, 2027 — Final Examinations | الامتحانات النهائية.
+
+The official calendar explicitly identifies December 26–31 as theoretical final examinations. The remaining periods follow the practical examination week and are generally used for theoretical finals.
+
+The overall examination range includes breaks and holidays; exams are not necessarily held every day.
+
+**Christmas Day – Western Calendar | عيد الميلاد المجيد حسب التقويم الغربي**  
+December 25, 2026 — Holiday.
+
+**New Year's Day | رأس السنة الميلادية**  
+January 1, 2027 — Holiday.
+
+**Isra and Mi'raj | الإسراء والمعراج**  
+January 4, 2027 — Holiday.
+
+**Christmas Day – Eastern Calendar | عيد الميلاد المجيد حسب التقويم الشرقي**  
+January 7, 2027 — Holiday.
+
+**Results Announcement and End of First Semester | إعلان النتائج ونهاية الفصل الأول**  
+January 16, 2027. Faculty vacation begins.
+
+---
+
+## SECOND SEMESTER | الفصل الثاني
+
+**Registration Period | فترة التسجيل للفصل الثاني**  
+January 17–22, 2027.
+
+**End of Faculty Vacation | نهاية إجازة أعضاء الهيئة التدريسية**  
+January 23, 2027.
+
+**Add and Drop Period | فترة السحب والإضافة**  
+January 24–28, 2027. Classes are held during this period.
+
+**Last Day for Add/Drop and Study Deferment Requests | آخر موعد للسحب والإضافة وتقديم طلبات تأجيل الدراسة**  
+January 28, 2027.
+
+**Late Course Withdrawal Begins | بداية السحب المتأخر من المساقات**  
+January 31, 2027. Absence tracking also begins on this date.
+
+**Women's Day | يوم المرأة العالمي**  
+March 8, 2027 — Holiday.
+
+**Eid al-Fitr | عيد الفطر السعيد**  
+March 10, 2027 — Holiday as listed in the academic calendar.
+
+**Practical Midterm Examinations | الامتحانات النصفية العملية**  
+March 14–18, 2027.
+
+**Theoretical Midterm Examinations | الامتحانات النصفية النظرية**  
+March 21 – April 1, 2027, across two examination weeks:
+- Week 1: March 21–25, 2027.
+- Week 2: March 28 – April 1, 2027.
+
+**Last Day to Enter Semester Grades | آخر موعد لإدخال العلامات الفصلية**  
+April 29, 2027.
+
+**Last Day for Late Course Withdrawal | آخر موعد للسحب المتأخر من المساقات**  
+April 29, 2027.
+
+**Labor Day | عيد العمال**  
+May 1, 2027 — Holiday.
+
+**Easter | عيد الفصح**  
+May 2, 2027 — Holiday.
+
+**Practical Final Examinations | الامتحانات النهائية العملية**  
+May 3–6, 2027.
+
+**Final Examinations – Generally Theoretical | الامتحانات النهائية – النظرية عادةً**  
+May 9 – June 3, 2027, across three examination periods:
+- Period 1: May 9–13, 2027 — Final Examinations | الامتحانات النهائية.
+- Period 2: May 22–27, 2027 — Final Examinations | الامتحانات النهائية.
+- Period 3: May 29 – June 3, 2027 — Final Examinations | الامتحانات النهائية.
+
+These examination periods follow the practical final examinations and are generally used for theoretical finals. The official calendar does not separately identify their examination type.
+
+The periods are not continuous, and examinations are not necessarily held on every day between May 9 and June 3.
+
+**Eid al-Adha | عيد الأضحى المبارك**  
+May 15, 2027 — Holiday as listed in the academic calendar.
+
+**Islamic New Year | رأس السنة الهجرية**  
+June 6, 2027 — Holiday.
+
+**Results Announcement and End of Second Semester | إعلان النتائج ونهاية الفصل الثاني**  
+June 13, 2027. Faculty vacation begins.
+
+---
+
+## SUMMER SEMESTER | الفصل الصيفي
+
+**Summer Semester Registration | التسجيل للفصل الصيفي**  
+June 18, 2027.
+
+**Add and Drop Period | فترة السحب والإضافة**  
+June 21–23, 2027. Classes are held during this period.
+
+**Late Course Withdrawal Begins | بداية السحب المتأخر من المساقات**  
+June 24, 2027. Absence tracking also begins on this date.
+
+**Practical Midterm Examinations | الامتحانات النصفية العملية**  
+July 11–15, 2027.
+
+**Theoretical Midterm Examinations | الامتحانات النصفية النظرية**  
+July 18–22, 2027.
+
+**Last Day to Enter Midterm and Coursework Grades | آخر موعد لإدخال علامات النصفي والأعمال الفصلية**  
+July 28, 2027.
+
+**Last Day for Late Course Withdrawal | آخر موعد للسحب المتأخر من المساقات**  
+July 29, 2027.
+
+**Practical Final Examinations | الامتحانات النهائية العملية**  
+August 1–5, 2027.
+
+**Last Day of Classes | آخر يوم للتدريس**  
+August 5, 2027.
+
+**Final Examinations – Generally Theoretical | الامتحانات النهائية – النظرية عادةً**  
+August 7–12, 2027.
+
+These final examinations follow the practical examination period of August 1–5. They are generally theoretical examinations, although the official calendar lists them simply as "Final Examinations."
+
+**Results Announcement and End of Academic Year | إعلان النتائج ونهاية العام الأكاديمي**  
+August 19, 2027.

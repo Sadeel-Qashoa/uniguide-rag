@@ -1,0 +1,62 @@
+# PTUK Current Student Announcements | الإعلانات الطلابية الحالية
+University: Palestine Technical University - Kadoorie (PTUK) | جامعة فلسطين التقنية - خضوري
+Campus Scope: Tulkarm Main Campus | المقر الرئيس - طولكرم
+Last Checked: 2026-10-30
+Official Announcements Page: https://ptuk.edu.ps/ar/announcements/
+
+Purpose | الهدف:
+This file contains only current, relevant student announcements confirmed from PTUK's official announcements page as of the last checked date. Old or expired announcements are not retained in this file.
+
+---
+
+## ANNOUNCEMENT 1 | الإعلان الأول
+
+Title | العنوان:
+Applications Open for the Needy Student Fund Scholarship and External Scholarships for Second Semester 2026/2027 | فتح باب التقديم لمنحة صندوق الطالب المحتاج ومجموعة المنح الخارجية للفصل الثاني 2026/2027
+
+Published Date | تاريخ النشر: 2026-10-29
+Application Opens | بدء التقديم: 2026-10-29
+Application Deadline | آخر موعد للتقديم: 2026-11-26 (evening | مساءً)
+Status as of 2026-10-30 | الحالة بتاريخ 2026-10-30: Open | التقديم مفتوح
+Organizing Unit | الجهة: Student Affairs Deanship - Loans and Scholarships Section | عمادة شؤون الطلبة - قسم القروض والمنح
+
+Scholarship 1 | المنحة الأولى:
+Needy Student Fund Scholarship | منحة صندوق الطالب المحتاج
+Eligible Programs | التخصصات: All majors | جميع التخصصات
+Minimum Cumulative Average | الحد الأدنى للمعدل التراكمي:
+- Bachelor's | بكالوريوس: 65%
+- Diploma | دبلوم: 60%
+Additional Conditions | شروط إضافية:
+- Must have successfully completed at least one academic semester | اجتياز فصل دراسي واحد بنجاح
+- Must not be receiving another scholarship | ألا يكون مستفيدًا من منحة أخرى
+
+Scholarship 2 | المنحة الثانية:
+Marouf Rafiq Al-Sheikh Mahmoud Scholarship | منحة السيد معروف رفيق الشيخ محمود
+Minimum Cumulative Average | الحد الأدنى للمعدل التراكمي: 70%
+Eligible Bachelor's Fields | تخصصات البكالوريوس المشمولة: Information Technology, Computer Engineering, Applied Computing, Financial and Banking Sciences, and E-Commerce | تكنولوجيا المعلومات، هندسة الحاسوب، الحوسبة التطبيقية، العلوم المالية والمصرفية، التجارة الإلكترونية
+Eligible Diploma Fields | تخصصات الدبلوم المشمولة: Technical Diploma in Engineering and Commercial Professions | الدبلوم التقني في المهن الهندسية والتجارية
+
+Scholarship 3 | المنحة الثالثة:
+Siham Masoud Awartani Scholarship | منحة الفاضلة سهام مسعود عورتاني
+Minimum Cumulative Average | الحد الأدنى للمعدل التراكمي: 75%
+Eligible Students | الفئة المستهدفة: Bachelor's students in scientific majors in the Faculty of Engineering and the Faculty of Applied Sciences | طلبة بكالوريوس التخصصات العلمية في كليتي الهندسة والعلوم التطبيقية
+
+How to Apply | طريقة التقديم:
+Submit the electronic application at https://app2.ptuk.edu.ps/grant
+Required Attachments | المرفقات: All required supporting documents must be uploaded as clear, complete, recent PDF files. Applications with missing documentation will not be considered. | يجب إرفاق جميع المعززات المطلوبة بصيغة PDF واضحة وكاملة وحديثة؛ الطلبات غير المكتملة لا تُدرس.
+Important Rule | شرط مهم: A student may apply for only one of these scholarships | يسمح للطالب بالتقديم لمنحة واحدة فقط.
+
+Official Source | المصدر الرسمي:
+https://www.ptuk.edu.ps/ar/announcements/?id=2882
+
+---
+
+## CURRENT-ANNOUNCEMENT RESPONSE RULES | قواعد التعامل مع الإعلانات الحالية
+
+1. Treat dates and status as valid only as of the Last Checked date above; do not automatically assume an announcement is still open in the future.
+2. Before saying applications are currently open, compare the present date with the deadline and, when possible, re-check the official announcement for changes or extensions.
+3. If an announcement has passed its deadline, do not present it as a currently available opportunity. Update or remove its record from this current-only file.
+4. Do not invent announcements, eligibility requirements, application dates, or working registration links.
+5. If no applicable current announcement exists in the available sources, say: "لم أجد إعلانًا حاليًا متعلقًا بسؤالك ضمن إعلانات جامعة خضوري المتوفرة لدي." This does not mean the university has never published such an announcement.
+6. Include the official announcement URL and the published date in answers where relevant.
+7. Do not confuse annual scholarship regulations in scholarships_and_loans.txt with time-limited application announcements in this file.

@@ -1,0 +1,187 @@
+PTUK ACADEMIC REGULATIONS | الأنظمة والتعليمات الأكاديمية
+University: Palestine Technical University – Kadoorie (PTUK)
+Campus scope: Main Campus – Tulkarm | المقر الرئيس – طولكرم
+Document: UniGuide AI knowledge base
+Sources: Official PTUK Frequently Asked Questions and Academic Terminology pages.
+Note: The following are university-published general statements, not an individual academic decision. Program-specific or newer regulations may differ. Do not infer rules that are not stated below.
+
+=== 1. ACADEMIC GRADES AND GPA | المعدلات والعلامات ===
+
+Cumulative Average (Cumulative GPA) | المعدل التراكمي
+The PTUK FAQ calculates the cumulative average as the sum of each course grade multiplied by its credit hours, divided by the total applicable credit hours studied.
+For a repeated course, the credit hours are counted once and the new grade is used, according to the FAQ.
+Student expressions: كم معدلي التراكمي؟ كيف أحسب معدلي؟ إذا أعدت مادة شو بصير بالمعدل؟
+
+Semester Average | المعدل الفصلي
+The credit-hour-weighted average of the numerical grades of courses included in the semester GPA calculation.
+Student expressions: شو معدلي هالفصل؟ كيف بحسب المعدل الفصلي؟
+
+Weighted GPA Calculation | حساب المعدل حسب عدد الساعات المعتمدة
+For each numerically graded course that counts toward the GPA, multiply the course grade by its credit hours. Add all those products, then divide by the sum of credit hours of the courses included in the GPA calculation.
+Formula: Average = Sum(course grade × course credit hours) / Sum(credit hours of numerically graded courses included in the calculation).
+Example | مثال:
+- Course A | المادة أ: grade 80, 3 credit hours → 80 × 3 = 240.
+- Course B | المادة ب: grade 90, 2 credit hours → 90 × 2 = 180.
+- Weighted average | المعدل = (240 + 180) / (3 + 2) = 84%.
+A 3-credit-hour course has more influence on the average than a 1-credit-hour course, because its grade is weighted by 3 instead of 1.
+This calculation applies to both semester and cumulative averages over their respective included courses. For repeated courses, follow the university-specific repeat rule stated above.
+Student expressions: إذا جبت 80 بمادة 3 ساعات كم بتأثر؟ كيف أحسب التراكمي؟ احسبلي المعدل حسب الساعات.
+
+Pass/Fail Courses | مواد ناجح / راسب
+Some courses may be evaluated as Pass/Fail (ناجح/راسب) rather than receiving a numerical percentage grade. Student-mentioned examples include Community Service | خدمة المجتمع and Computer Skills | مهارات الحاسوب, where their applicable study plan uses Pass/Fail grading.
+When a course is officially designated Pass/Fail, do not assign a made-up numerical grade to it or multiply a hypothetical mark by its credit hours in the GPA calculation. Such courses generally do not affect the numerical GPA; however, a passed course may still count toward fulfillment of applicable degree requirements, according to the program's rules.
+The exact grading classification and credit treatment must follow the student's specific course and approved study plan; do not assume every course with the same name is Pass/Fail in every program.
+Student expressions: خدمة المجتمع بتنحسب بالمعدل؟ مهارات الحاسوب ناجح راسب؟ مواد الناجح والراسب برفعوا المعدل؟
+
+Bachelor's Degree Grade Categories | تقديرات البكالوريوس
+Excellent | ممتاز: 90% and above.
+Very Good | جيد جدًا: 80%–89.9%.
+Good | جيد: 70%–79.9%.
+Acceptable | مقبول: 65%–69.9%.
+Weak | ضعيف: Below 65%.
+
+Intermediate Diploma Grade Categories | تقديرات الدبلوم المتوسط
+Excellent | ممتاز: 90% and above.
+Very Good | جيد جدًا: 80%–89.9%.
+Good | جيد: 70%–79.9%.
+Acceptable | مقبول: 60%–69.9%.
+Weak | ضعيف: 50%–59.9%.
+
+Source: https://www.ptuk.edu.ps/ar/aarticlepage.php?artid=190
+Terminology: https://ptuk.edu.ps/ar/admissions/aarticlepage.php?artid=1860
+
+=== 2. ACADEMIC WARNING | الإنذار الأكاديمي ===
+
+Bachelor's Academic Warning | إنذار البكالوريوس
+According to the PTUK FAQ, a bachelor's student receives an academic warning if the cumulative average drops below 65% in any semester, including the first semester at the university.
+Student expressions: متى باخد إنذار؟ إذا معدلي 64 بنذروني؟ كم معدل الإنذار للبكالوريوس؟
+
+Intermediate Diploma Academic Warning | إنذار الدبلوم
+According to the FAQ, a diploma student receives an academic warning if the cumulative average is below 55% in a regular semester.
+Student expressions: كم إنذار الدبلوم؟ إذا معدلي أقل من 55 شو بصير؟
+
+Course Load Under Academic Warning | الساعات المسموحة للطالب المنذر
+The FAQ states that a student under academic warning may register for up to 15 credit hours with the department head's approval. See registration.txt for other credit-hour limits.
+
+Source: https://www.ptuk.edu.ps/ar/aarticlepage.php?artid=190
+
+=== 3. ACADEMIC DISMISSAL | الفصل الأكاديمي ===
+
+Bachelor's Academic Dismissal | الفصل الأكاديمي للبكالوريوس
+According to the official FAQ, dismissal conditions include:
+- Failure to clear an academic warning within two consecutive semesters.
+- Cumulative average below 55% in a semester after the student's first semester.
+- Exhaustion of the legally allowed period to complete the degree.
+The same FAQ states that a bachelor's student who has completed 75% of the study-plan credit hours is not academically dismissed under the exception described there. Do not generalize this statement to every possible disciplinary or administrative dismissal.
+
+Intermediate Diploma Academic Dismissal | الفصل الأكاديمي للدبلوم
+The FAQ lists these situations:
+- Receiving two consecutive academic warnings.
+- Continuous unexcused interruption exceeding 20% of the semester, unless an excuse is accepted by the relevant university council.
+- Dismissal from a second major after dismissal from an earlier one.
+- Exceeding the maximum permitted study duration.
+
+Returning After Dismissal | العودة بعد الفصل
+The FAQ states that a dismissed student cannot return to study the same major. Individual status and applicable appeals or exceptions should be confirmed with Admissions and Registration.
+
+Source: https://www.ptuk.edu.ps/ar/aarticlepage.php?artid=190
+
+=== 4. EXAM ABSENCE AND EXCUSES | الغياب عن الامتحانات والأعذار ===
+
+Final Exam Without an Accepted Excuse | الغياب عن النهائي بدون عذر
+According to the FAQ: zero for the final exam.
+
+Final Exam With an Accepted Excuse | الغياب عن النهائي بعذر
+According to the FAQ, a replacement examination is arranged within a maximum of two weeks from the last exam.
+
+Daily / In-Semester Exam Without an Excuse | الغياب عن امتحان يومي بدون عذر
+According to the FAQ: zero for the exam.
+
+Daily / In-Semester Exam With an Accepted Excuse | الغياب عن امتحان يومي بعذر
+According to the FAQ, an alternative exam is arranged in coordination with the lecturer.
+
+Medical Excuses | الأعذار الطبية
+For details of submitting medical reports and deadlines, see student_services.txt. An excuse must be accepted through the applicable university process; submitting one does not automatically guarantee acceptance.
+
+Student expressions: غبت عن الفاينل شو بصير؟ عندي تقرير طبي بقدر أعيد الامتحان؟ إذا غبت عن كويز بقدر أعوض؟
+
+Source: https://www.ptuk.edu.ps/ar/aarticlepage.php?artid=190
+
+=== 5. CLASS ATTENDANCE | الحضور والغياب عن المحاضرات ===
+
+Attendance Tracking | ترصيد الغياب
+Attendance tracking begins on the academic-calendar date listed for each semester. Refer to academic_calendar.txt for 2026–2027 dates.
+
+Absence Limit and Course Deprivation | نسبة الغياب والحرمان من المساق
+The reviewed sources do not establish a verified universal percentage of class absences that triggers deprivation from an exam or course. Do not provide an invented absence percentage or number of permitted lectures. Ask for the applicable course/program policy or refer the student to the department or Admissions and Registration.
+
+Important: The 20% continuous interruption condition stated in the diploma dismissal FAQ is NOT a general permitted class absence percentage for every course.
+
+Student expressions: كم غياب مسموح؟ بعد كم غياب بحرّموني؟ بقدر أغيب كم محاضرة؟
+
+Calendar: https://ptuk.edu.ps/ar/academic-calendar.php
+FAQ: https://www.ptuk.edu.ps/ar/aarticlepage.php?artid=190
+
+=== 6. PREREQUISITES AND COREQUISITES | المتطلبات السابقة والمتزامنة ===
+
+Prerequisite | المتطلب السابق
+A course that must be completed successfully before registering for a later course according to the approved study plan. The university terminology says a course failed due to absence does not satisfy the prerequisite.
+
+Corequisite | المتطلب المتزامن
+A course that must be taken previously or during the same semester as the related course, under the plan and relevant approvals.
+
+Student expressions: بقدر أنزل المادة بدون متطلبها؟ شو يعني متطلب سابق؟ بقدر أنزل المادتين مع بعض؟
+
+Source: https://ptuk.edu.ps/ar/admissions/aarticlepage.php?artid=1860
+
+=== 7. GRADUATION AND SPECIAL COURSE RULES | التخرج وأحكام المساقات الخاصة ===
+
+Graduation Requirements | متطلبات التخرج
+Students must complete the required courses and credit hours of their applicable study plan and meet all university graduation requirements. A single fixed credit-hour count does not apply to all majors; consult majors_and_tuition.txt and the official study-plan link for the specific major.
+
+Substitute Course | المادة البديلة
+The PTUK FAQ identifies circumstances for a substitute required course in the graduation semester: the graduating student failed a compulsory course three times, the required course was not offered, or it conflicts with other courses. Approvals and program rules still apply.
+
+Major Elective Course | مساق اختياري تخصص
+The FAQ says students may take a major elective in the semester preceding graduation, under the rule described there.
+
+Desk / Independent Course Arrangement | الساعة المكتبية
+The university terminology describes an arrangement for graduating students whose graduation depends on at most one or two courses not offered that semester, provided the student has previously taken and failed them, within the allowed course load and relevant approvals.
+
+Student expressions: متى بتخرج؟ بقدر أخذ مادة بديلة؟ شو هي الساعة المكتبية؟ كم ساعة ضايل للتخرج؟
+
+FAQ: https://www.ptuk.edu.ps/ar/aarticlepage.php?artid=190
+Terminology: https://ptuk.edu.ps/ar/admissions/aarticlepage.php?artid=1860
+
+=== 8. OTHER ACADEMIC STATUS TERMS | مصطلحات الحالة الأكاديمية ===
+
+Academic Interruption | الانقطاع عن الدراسة
+Failure to register for a semester or absence from study without formal approval, according to the university terminology.
+
+Study Deferment | تأجيل الدراسة
+An official postponement of study subject to university rules. See registration.txt for eligibility and procedures.
+
+Course Withdrawal | السحب أو الانسحاب من مساق
+Dropping a course during the allowed add/drop period differs from late withdrawal; see registration.txt for deadlines and financial distinctions.
+
+Source: https://ptuk.edu.ps/ar/admissions/aarticlepage.php?artid=1860
+
+=== 9. DISCIPLINARY REGULATIONS | التعليمات والمخالفات السلوكية ===
+
+Disciplinary Violations | المخالفات السلوكية
+The reviewed FAQ references behavioral warnings and disciplinary status, but the material collected here does not provide a comprehensive official list of offenses, penalties, or appeals. Do not invent disciplinary sanctions. State that the specific regulation is unavailable in the current knowledge base and refer the student to the applicable university regulations and Student Affairs.
+
+FAQ: https://www.ptuk.edu.ps/ar/aarticlepage.php?artid=190
+
+=== 10. UNIGUIDE AI ANSWER RULES | قواعد الإجابة ===
+
+- Treat all academic regulations as dependent on degree type, student status, applicable study plan, and current university rules.
+- Ask whether the student is in a bachelor's or diploma program when the answer differs.
+- Translate colloquial student questions such as "كم لازم معدلي عشان ما أنذر؟" into academic warning rules.
+- Do not confuse academic warning thresholds with passing-grade thresholds or graduation requirements.
+- Do not confuse absence from an exam with absence from classes.
+- Do not treat the diploma's 20% continuous interruption dismissal rule as a universal course attendance allowance.
+- Explain differences between the FAQs and other official pages when necessary, rather than silently choosing a conflicting rule.
+- If the answer cannot be found in the available PTUK material, say: "لم أجد معلومات محددة عن هذا الموضوع في مصادر جامعة خضوري المتوفرة لدي حاليًا. يُفضّل مراجعة القسم المختص للحصول على التفاصيل."
+- Never claim that PTUK has not published a rule anywhere merely because it is absent from UniGuide AI's collected sources.
+- Include a relevant official source link when possible.

@@ -1,0 +1,113 @@
+PTUK STUDENT SERVICES | الخدمات الطلابية
+University: Palestine Technical University – Kadoorie (PTUK) | جامعة فلسطين التقنية – خضوري
+Campus: Tulkarm Main Campus | المقر الرئيس – طولكرم
+Document Type: UniGuide AI Knowledge Base
+Scope: Student services accessible through PTUK's main-campus offices and official university platforms.
+Note: Services, requirements and office details may be updated. Where a service's hours, cost or precise procedure is not given in the available official sources, no value is assumed.
+
+=== 1. DEANSHIP OF STUDENT AFFAIRS | عمادة الشؤون الطلابية ===
+The Deanship of Student Affairs supports student life outside the classroom and acts as a link between students and university offices. Its published responsibilities include psychosocial support, extracurricular activities, student loans and grants, student complaints, student leadership and elections, and follow-up services for graduates.
+Students can contact the Deanship when they need guidance about the appropriate student-service office or wish to raise a student-life issue.
+Official page: https://ptuk.edu.ps/ar/deanships/about.php?name=students-affairs
+Deanship departments: https://ptuk.edu.ps/en/deanships/departments.php?name=students-affairs
+Contact page: https://ptuk.edu.ps/ar/deanships/contact.php?name=students-affairs
+
+=== 2. STUDENT COUNSELING AND GUIDANCE | الإرشاد والتوجيه ===
+The Guidance Department provides student support for social, psychological and academic concerns.
+It responds to student questions about academic averages, academic warnings, completed and remaining credit hours, and other academic concerns.
+It offers individual counseling, group counseling and awareness workshops. The department describes confidentiality in its handling of individual student counseling and complaints.
+Students can ask about: "بدي إرشاد نفسي", "عندي مشكلة بالجامعة", "مين يساعدني بإنذار أكاديمي؟", "عندي شكوى", "I need student counseling".
+This service is distinct from academic course advising by a student's assigned faculty advisor.
+Source: https://ptuk.edu.ps/ar/deanships/department.php?name=advising-and-guidance
+
+=== 3. UNIVERSITY MEDICAL CLINIC | العيادة الصحية ===
+The university clinic provides medical, preventive, health education, first aid and basic emergency support within available resources. The clinic may refer serious cases to a hospital, and its published page describes student health-insurance arrangements with Zakat Hospital.
+The clinic also reviews or certifies medical reports for university purposes.
+Official health-clinic page: https://ptuk.edu.ps/ar/deanships/department.php?name=medical-services
+University clinic online system (listed in official university procedures): https://clinic.ptuk.edu.ps/
+
+=== 4. MEDICAL EXCUSES AND SICK LEAVE | الأعذار الطبية والإجازات المرضية ===
+According to the official university clinic guidance, a medical report to be approved should clearly include:
+- Date of the medical visit.
+- Student's full three-part name.
+- Medical diagnosis.
+- Prescribed treatment or medications; if omitted, a prescription or the medications may be required when the report is checked.
+- Doctor's name.
+- An official stamp from the doctor or medical institution on an appropriately headed report.
+Reports from government health institutions, the university clinic and Zakat Hospital are addressed by the published policy. Private hospitals and private clinics may require Ministry of Health certification before university-clinic approval, according to the stated conditions.
+The official clinic page says to submit the medical excuse to the Deanship of Student Affairs WITHIN FIVE DAYS AFTER THE END of the medical excuse or sick-leave period, after meeting the documentation requirements.
+For personal eligibility and the most recent submission process, students should contact the Deanship or university clinic.
+Student questions: "كيف أعتمد عذر طبي؟", "شو لازم يكون بالتقرير الطبي؟", "قديش معي وقت أسلم عذر؟", "وين أسلم عذر المرض؟".
+Source: https://ptuk.edu.ps/ar/deanships/department.php?name=medical-services
+
+=== 5. STUDENT ACTIVITIES | الأنشطة الطلابية ===
+The Activities and Follow-up Department supports extracurricular activities, including cultural, artistic, musical, theatrical, photography, calligraphy, drawing and art exhibitions, sports, reading and literary events, lectures, seminars, competitions, volunteering and student participation in community events.
+Availability, registration periods and event schedules depend on announcements; this file does not define an always-open schedule.
+Students can ask: "كيف أشارك بالأنشطة؟", "في دبكة أو مسرح بالجامعة؟", "وين أسجل بنشاط رياضي؟", "Are there student clubs and sports activities?".
+Source: https://ptuk.edu.ps/ar/deanships/department.php?name=student-activities
+
+=== 6. GRADUATE SUPPORT AND EMPLOYMENT | متابعة الخريجين والتوظيف ===
+The Alumni and Employment Department works to prepare students and graduates for the labor market and offers training programs, extracurricular development opportunities and volunteering activities in cooperation with other university departments.
+The published department description supports the existence of employment-oriented preparation services, but does not provide a guaranteed job-placement service or a fixed list of available vacancies.
+Students can ask: "وين أروح لو بدي مساعدة بسوق العمل؟", "هل في ورش تأهيل للتوظيف؟", "شو خدمات الخريجين؟".
+Source: https://ptuk.edu.ps/ar/deanships/department.php?name=alumni-and-employment
+
+=== 7. SCHOLARSHIPS, LOANS AND FINANCIAL ASSISTANCE | المنح والقروض والمساعدات ===
+The Deanship includes a Loans, Grants and Aid Department, and published PTUK materials describe scholarships, grants and loans for eligible students.
+For detailed eligibility, rates, awards, deadlines and applications, use the separate scholarships_and_loans.txt knowledge file; do not duplicate potentially changing scholarship figures here.
+University-listed grants service: https://app2.ptuk.edu.ps/grant/
+Deanship departments: https://ptuk.edu.ps/en/deanships/departments.php?name=students-affairs
+
+=== 8. STUDENT COMPLAINTS AND SUGGESTIONS | شكاوى الطلبة والاقتراحات ===
+The Student Affairs Deanship describes receiving and following up student complaints and issues. The Guidance Department also describes listening to student complaints and supporting their resolution confidentially.
+The university's official procedures index lists an electronic complaints and suggestions system operated by the Quality Department.
+Students asking "بدي أقدم شكوى", "كيف أقدم اقتراح؟" should be directed to the appropriate department or published service, without claiming a guaranteed resolution time.
+Complaints and suggestions portal: https://app2.ptuk.edu.ps/Suggestions_system/
+Student guidance: https://ptuk.edu.ps/ar/deanships/department.php?name=advising-and-guidance
+University electronic services index: https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=159&page=ProcedureDetails
+
+=== 9. UNIVERSITY LIBRARY | مكتبة الجامعة ===
+The PTUK Library provides information resources and library services for students and staff. Its official service page describes:
+- Requesting books through the library website's request form.
+- Searching for books on the library website.
+- Access to university-subscribed electronic databases, on campus and off campus where access permits.
+- Help from library guidance staff in locating information resources.
+The library website gives access to more detailed library information. Borrowing limits, overdue fines, exact opening hours and database access credentials are not established in this summary.
+Students can ask: "كيف أبحث عن كتاب بالمكتبة؟", "كيف أطلب كتاب؟", "في قواعد بيانات إلكترونية؟", "كيف أستخدم المكتبة من البيت؟".
+Library website: https://library.ptuk.edu.ps/
+Official library services: https://library.ptuk.edu.ps/aarticlepage.php?artid=32&linkid=30
+
+=== 10. UNIVERSITY STUDENT CARD | البطاقة الجامعية ===
+The official university admission-completion steps direct newly admitted students to the Deanship of Student Affairs to receive their university student card, after completing relevant admission and payment steps.
+The procedure for replacing a lost card and any replacement fee are not specified in the cited admission steps; do not invent them.
+Source: https://ptuk.edu.ps/admission_steps/
+
+=== 11. USEFUL STUDENT PORTALS | روابط خدمات إلكترونية للطلبة ===
+Student academic portal | البوابة الأكاديمية: https://edugate.ptuk.edu.ps/
+E-learning platform / LMS | منصة التعلم الإلكتروني: https://lms.ptuk.edu.ps/
+Examinations portal | بوابة الامتحانات: https://exam.ptuk.edu.ps/
+University-listed electronic services | منظومة الخدمات الإلكترونية: https://es.ptuk.edu.ps/
+Medical-clinic system | نظام العيادة الصحية: https://clinic.ptuk.edu.ps/
+Complaints and suggestions | الشكاوى والاقتراحات: https://app2.ptuk.edu.ps/Suggestions_system/
+Scholarships and assistance | المنح والمساعدات: https://app2.ptuk.edu.ps/grant/
+The availability of individual services, login requirements and permissions depend on the university system; a listed URL does not imply public access without authentication.
+Sources: https://ptuk.edu.ps/ar/deanships/deanship.php?name=students-affairs
+https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=159&page=ProcedureDetails
+
+=== 12. UNIVERSITY CONTACT INFORMATION | التواصل مع الجامعة ===
+Main Campus | المقر الرئيس: Jaffa Street, Tulkarm, Palestine.
+General University Phone: +970 9 2688199
+Alternative General Phone: +970 9 2677922
+Student Affairs Deanship Contact Form: https://ptuk.edu.ps/ar/deanships/contact.php?name=students-affairs
+For individual staff office numbers or departmental extensions, rely on official current staff-directory pages rather than assuming one department's details apply to another.
+Source: https://ptuk.edu.ps/ar/deanships/deanship.php?name=students-affairs
+
+=== 13. ANSWERING RULES FOR UNIGUIDE AI | قواعد الإجابة ===
+- Answer questions about PTUK's Tulkarm campus only.
+- Identify the relevant service and its official university page where available.
+- Understand everyday Arabic wording such as "وين أروح؟", "كيف أعمل عذر؟", "وين أشتكي؟", "شو في أنشطة؟" and link it to the corresponding service.
+- Do not confuse the university medical clinic with the academic guidance office or the financial-aid office.
+- Do not claim that a particular event, office schedule, fee, service entitlement or form is available unless it is actually supported by the available documents.
+- Do not share or request student medical reports, passwords or personal account information in answers.
+- If a requested student-service detail is not present in the currently available official PTUK sources, say: "لم أجد معلومات محددة عن هذا الموضوع في مصادر جامعة خضوري المتوفرة لدي حاليًا. يُفضّل التواصل مع الدائرة المختصة للتأكد من التفاصيل."
+- Do not claim that the university has never published the information; only state the limit of the knowledge base.

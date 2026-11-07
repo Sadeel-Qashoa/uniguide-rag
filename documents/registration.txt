@@ -1,84 +1,425 @@
-جامعة فلسطين التقنية - خضوري
-Training Knowledge File: Registration, Academic Advising, and Registration Procedures
-Source Type: University Procedures Manual + Frequently Asked Questions + Academic Calendar
+# PTUK Admissions, Registration and Academic Advising | القبول والتسجيل والإرشاد الأكاديمي
 
-Note: This is a training summary based on official university pages, not a registration announcement for a specific student cohort. Students should verify the latest announcements before making actual decisions.
+University: Palestine Technical University – Kadoorie (PTUK)  
+Document Type: Student Knowledge Base  
+Sources: Official University Procedures Manual, Admissions Pages, Frequently Asked Questions, Student Portal, and Academic Calendar.
 
-=== REGISTRATION AND ACADEMIC ADVISING ===
+**Important Note | ملاحظة مهمة**
 
-The Admissions and Registration Unit announces academic advising, tuition payment, and course registration dates through university communication channels and the student portal.
+This document summarizes general PTUK registration procedures and academic regulations. Requirements, dates, and exceptions may vary depending on the academic year, semester, degree program, and individual student circumstances.
 
-Continuing students register for courses through their student portal during the officially announced registration periods.
+Students should consult the latest official university announcements before making academic or financial decisions.
 
-Academic advisors help students select courses and determine the appropriate number of credit hours. Advising notes are displayed in the system.
+---
 
-Registration periods vary between semesters, and registration dates may differ between student cohorts. Therefore, the registration date for a specific cohort cannot be determined from general procedures alone.
+## 1. REGISTRATION AND ACADEMIC ADVISING | التسجيل والإرشاد الأكاديمي
 
-Source: https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=27&page=ProcedureDetails
+**Registration Announcements | إعلانات التسجيل**
 
-=== ELECTRONIC STUDENT PORTAL ===
+The Admissions and Registration Unit announces academic advising, tuition payment, and course registration dates through official university communication channels and the student portal.
 
-The electronic registration service allows students to register for courses and add or drop courses when the registration period is open and the student meets university requirements.
+Registration periods vary between semesters, and specific dates may differ between student cohorts.
 
-The portal also displays information about minimum and maximum credit hours, semester GPA, and cumulative GPA.
+**Academic Advising | الإرشاد الأكاديمي**
 
-Source: https://edugate.ptuk.edu.ps/temp/StudentUM.pdf
+Academic advisors help students choose appropriate courses according to their study plans, academic standing, and completed credit hours.
 
-=== ADD AND DROP DATES — ACADEMIC YEAR 2026/2027 ===
+Advising recommendations and notes may be displayed in the electronic student system.
 
-First Semester 2026/2027:
-The add and drop week begins on 2026/09/13.
-The deadline for adding or dropping courses and submitting study deferment requests is 2026/09/17.
-Late course withdrawal and absence tracking begin on 2026/09/20.
-During the add and drop period, students can modify
-their registered courses by adding or dropping courses.
+**Course Registration | تسجيل المساقات**
 
-Second Semester 2026/2027:
-Registration for the second semester begins on 2027/01/17 according to the academic calendar.
-The add and drop week begins on 2027/01/24.
-The deadline for adding or dropping courses and submitting study deferment requests is 2027/01/28.
-Late course withdrawal and absence tracking begin on 2027/01/31.
+Continuing students register for courses through the university's electronic student portal during officially announced registration periods.
 
-Summer Semester 2026/2027:
-Summer semester registration is listed for 2027/06/18.
-The add and drop period begins on 2027/06/21.
-Late course withdrawal and absence tracking begin on 2027/06/24.
+Course registration is subject to academic regulations, course prerequisites, section availability, academic advising, and applicable financial requirements.
 
-Source: https://ptuk.edu.ps/ar/academic-calendar.php
+**Tuition Calculation and Payment | احتساب القسط ودفع الرسوم**
 
-=== ACADEMIC COURSE LOAD — INFORMATION FROM THE FAQ PAGE ===
+Students follow the official registration procedures to calculate and pay their semester tuition fees.
 
-The university FAQ page states that the standard academic course load ranges from 12 to 19 credit hours.
+The required amount may depend on registered credit hours, tuition rates, applicable exemptions, scholarships, and other financial conditions.
 
-It states that students under academic warning may register for a maximum of 15 credit hours with the approval of the department head.
+The exact payment requirements and deadlines must be verified through the student portal and official university announcements.
 
-The FAQ also describes situations in which students may register for up to 21 credit hours, including graduating students or students with a cumulative average of 80% or higher. It also mentions a special case for diploma students.
+Source:  
+https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=27&page=ProcedureDetails
 
-In exceptional circumstances, students may register for 9 credit hours with the dean's approval.
+---
 
-Important: Another university regulations page specifies a different general maximum course load. Therefore, students should verify the regulations applicable to their academic program and individual situation before relying on a specific maximum.
+## 2. ELECTRONIC STUDENT PORTAL | البوابة الإلكترونية للطالب
 
-Source: https://www.ptuk.edu.ps/ar/aarticlepage.php?artid=190
-Comparison Source: https://ptuk.edu.ps/ar/admissions/aarticlepage.php?artid=1860
+**Student Portal | بوابة الطالب**
 
-=== STUDY DEFERMENT AND SEMESTER WITHDRAWAL ===
+The electronic student portal provides access to academic services, including course registration and adding or dropping courses when the relevant registration services are available.
 
-According to the university's registration procedures, a student may submit a semester withdrawal request through the student portal during the add and drop week.
+Students can also access academic information such as registered courses, semester GPA, cumulative GPA, and academic advising information.
 
-During this period, the request is treated as a study deferment, with tuition fees retained according to the published procedure.
+Access to registration services depends on the university's announced registration periods and applicable student requirements.
 
-After the add and drop week and until the end of the tenth week, the procedure states that the student is considered withdrawn from the semester, loses the tuition fees, and the semester counts toward the maximum permitted study duration. Certain exceptions require approval from the relevant authorities.
+Student Portal:  
+https://edugate.ptuk.edu.ps/
 
-The procedures also specify conditions for study deferment, including that the student must not be in their first semester at the university or in their academic major and must not have exhausted the permitted deferment period.
+Student Portal User Manual:  
+https://edugate.ptuk.edu.ps/temp/StudentUM.pdf
 
-These general procedures do not replace confirmation of an individual student's academic status with the Admissions and Registration Unit.
+---
 
-Source: https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=32&page=ProcedureDetails
+## 3. REGULAR ADD AND DROP | السحب والإضافة العادية
 
-=== RESPONSE GUIDELINES FOR UNIGUIDE AI ===
+**Regular Add and Drop Period | فترة السحب والإضافة العادية**
 
-If the system is asked about the registration date for a specific student cohort and no relevant announcement exists in the documents, it must state that the date is not available in the current knowledge base.
+The regular Add and Drop Period takes place at the beginning of each academic semester.
 
-If official sources contain conflicting information about the maximum number of credit hours, the system must acknowledge the conflict and recommend verification with the Admissions and Registration Unit rather than choosing an unsupported number.
+During this period, students can add or drop registered courses according to university regulations and available registration services.
 
-When answering questions about dates, the system must specify the academic semester and year and provide the source URL.
+The duration of the Add and Drop Period varies depending on the semester and academic year. It may extend to approximately one or two weeks in some academic schedules, but students must always follow the exact dates published in the official academic calendar.
+
+**Academic Year 2026–2027 | العام الأكاديمي 2026–2027**
+
+First Semester | الفصل الأول:  
+September 13–17, 2026.
+
+Second Semester | الفصل الثاني:  
+January 24–28, 2027.
+
+Summer Semester | الفصل الصيفي:  
+June 21–23, 2027.
+
+**Study Deferment Requests | طلبات تأجيل الدراسة**
+
+According to the academic calendar, the last day to submit study deferment requests during regular Add/Drop is:
+
+- First Semester: September 17, 2026.
+- Second Semester: January 28, 2027.
+
+Study deferment eligibility is subject to university regulations.
+
+Source:  
+https://www.ptuk.edu.ps/ar/academic-calendar.php
+
+---
+
+## 4. LATE COURSE WITHDRAWAL | السحب المتأخر من المساقات
+
+**Late Course Withdrawal | السحب المتأخر من المساقات**
+
+Late course withdrawal takes place after the regular Add and Drop Period has ended.
+
+Students may withdraw from registered courses during the officially permitted late withdrawal period, subject to university regulations.
+
+Unlike regular Add/Drop, late withdrawal does not normally allow students to replace a withdrawn course by adding another course through the same procedure.
+
+**Late Withdrawal Dates – 2026–2027 | مواعيد السحب المتأخر**
+
+First Semester | الفصل الأول:
+- Begins: September 20, 2026.
+- Last Day: December 10, 2026.
+
+Second Semester | الفصل الثاني:
+- Begins: January 31, 2027.
+- Last Day: April 29, 2027.
+
+Summer Semester | الفصل الصيفي:
+- Begins: June 24, 2027.
+- Last Day: July 29, 2027.
+
+Absence tracking also begins on the listed late-withdrawal starting dates.
+
+Source:  
+https://www.ptuk.edu.ps/ar/academic-calendar.php
+
+---
+
+## 5. TUITION REFUNDS AND WITHDRAWAL | استرداد الرسوم والسحب
+
+**Regular Course Add/Drop | السحب والإضافة العادية للمساقات**
+
+According to student-reported practice, tuition fees associated with courses dropped during the regular Add and Drop Period are normally returned or credited to the student's university account.
+
+**Late Course Withdrawal | السحب المتأخر من المساقات**
+
+According to student-reported practice, tuition fees for courses withdrawn during the late withdrawal period are not refunded.
+
+**Verification Note | ملاحظة التحقق**
+
+These course-level tuition refund rules have not yet been confirmed from a current official PTUK financial regulation. They should not be presented as verified university policy until confirmed.
+
+**Withdrawal from an Entire Semester | الانسحاب من الفصل الدراسي كاملًا**
+
+Withdrawal from an entire semester is different from withdrawing from an individual course.
+
+According to PTUK's published procedures:
+
+- During the Add and Drop Week, an eligible semester-withdrawal request is treated as study deferment, with tuition fees retained according to the applicable procedure.
+- After the Add and Drop Week and within the period specified in the procedure, semester withdrawal may result in loss of tuition fees.
+- The withdrawn semester may count toward the maximum permitted study duration.
+- Certain exceptions may require approval from the relevant university authorities.
+
+Students should confirm the financial consequences of withdrawal with the Admissions and Registration Unit.
+
+Source:  
+https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=32&page=ProcedureDetails
+
+---
+
+## 6. ACADEMIC COURSE LOAD | العبء الأكاديمي وعدد الساعات المسموح تسجيلها
+
+**What Is Academic Course Load? | ما هو العبء الأكاديمي؟**
+
+Academic course load means the total number of credit hours a student is allowed to register for during one academic semester.
+
+Students commonly ask about academic course load using everyday expressions such as:
+
+Arabic:
+- كم ساعة بقدر أنزل؟
+- كم ساعة مسموح أنزل؟
+- كم أكثر إشي بقدر أنزل؟
+- شو الحد الأعلى للساعات؟
+- كم أقل عدد ساعات بقدر أسجل؟
+- بقدر أنزل 21 ساعة؟
+- كم ساعة مسموح بالصيفي؟
+- بقدر أنزل مادة وحدة بالصيفي؟
+
+English:
+- How many credit hours can I register for?
+- What is the maximum number of credit hours?
+- What is the minimum number of credit hours?
+- How many hours can I take this semester?
+- How many credit hours can I take in summer?
+
+These expressions refer to academic course-load limits.
+
+**Regular Semesters | الفصل الأول والفصل الثاني**
+
+According to the PTUK Frequently Asked Questions page, the standard course load is:
+
+Minimum: 12 credit hours.  
+Maximum: 19 credit hours.
+
+The allowed number of hours may change depending on the student's academic standing and applicable exceptions.
+
+**Academic Warning | الإنذار الأكاديمي**
+
+According to the FAQ, students under academic warning may register for a maximum of 15 credit hours with the approval of the department head.
+
+**Additional Credit Hours | الساعات الإضافية**
+
+The FAQ describes situations in which students may register for up to 21 credit hours, including graduating students and students with a cumulative average of 80% or higher.
+
+Other program-specific conditions may apply.
+
+**Exceptional Minimum | الحد الأدنى الاستثنائي**
+
+In exceptional circumstances, students may register for 9 credit hours with the dean's approval, according to the FAQ.
+
+**Summer Semester | الفصل الصيفي**
+
+According to the student-provided information, the regular summer semester course-load range is:
+
+Minimum: 1 credit hour.  
+Maximum: 10 credit hours.
+
+This means students may register for as little as one credit hour during the summer semester, subject to course availability and applicable registration requirements.
+
+**Graduating Students Exception | استثناء الطلبة الخريجين**
+
+Graduating students may qualify for an exception allowing them to register for more than the regular summer maximum of 10 credit hours.
+
+Such exceptions depend on the university's applicable regulations and required approvals. The permitted additional hours must be verified before providing an exact maximum.
+
+**Summer Credit-Hour Verification | التحقق من ساعات الصيفي**
+
+The 1–10 credit-hour range and the graduating-student exception were provided as student knowledge. They have not yet been fully verified against current official PTUK academic regulations.
+
+---
+
+## 7. STUDY DEFERMENT | تأجيل الدراسة
+
+**Study Deferment | تأجيل الدراسة**
+
+Study deferment allows eligible students to postpone their studies for an academic semester according to university regulations.
+
+Students must submit their deferment requests through the officially designated procedure and within the permitted period.
+
+**Deferment Conditions | شروط التأجيل**
+
+According to the published university procedures:
+
+- The student must not be academically dismissed.
+- The student must not be in their first semester at the university or in their current academic major.
+- The student must not have exhausted the permitted deferment period.
+- The procedure specifies a maximum of four semesters of deferment for diploma and bachelor's students, whether consecutive or separate.
+
+Study deferment requests are subject to university verification and approval.
+
+Source:  
+https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=32&page=ProcedureDetails
+
+---
+
+## 8. WITHDRAWAL FROM AN ENTIRE SEMESTER | الانسحاب من الفصل الدراسي كاملًا
+
+**Semester Withdrawal | الانسحاب من الفصل**
+
+Semester withdrawal means withdrawing from an entire academic semester rather than dropping one or more individual courses.
+
+According to university procedures, eligible students can submit a semester-withdrawal request through the designated university service.
+
+**During Regular Add/Drop | خلال السحب والإضافة العادية**
+
+An eligible semester-withdrawal request during the Add and Drop Week is treated as study deferment, with the financial treatment specified in university procedures.
+
+**After Regular Add/Drop | بعد السحب والإضافة العادية**
+
+The published procedure describes semester withdrawal after the Add and Drop Week and up to the end of the tenth week, subject to applicable regulations.
+
+Withdrawal during this period may result in loss of semester tuition fees and may count toward the maximum permitted study duration.
+
+Certain exceptions may require additional university approval.
+
+Source:  
+https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=32&page=ProcedureDetails
+
+---
+
+## 9. CHANGING AN ACADEMIC MAJOR | تحويل التخصص
+
+**Major Transfer | تحويل التخصص**
+
+Students who wish to change their academic major may apply during the official transfer period announced by the university.
+
+Major transfer requests are subject to available places, academic conditions, departmental approval, and applicable university regulations.
+
+Previously completed courses may be reviewed to determine whether they can be counted toward the new study plan.
+
+Approval of a major transfer request is not automatic.
+
+Source:  
+https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=32&page=ProcedureDetails
+
+---
+
+## 10. UNIVERSITY WITHDRAWAL AND READMISSION | الانسحاب من الجامعة وإعادة الالتحاق
+
+**University Withdrawal | الانسحاب من الجامعة**
+
+University withdrawal means formally leaving the university, rather than withdrawing from a particular course or semester.
+
+Students must follow the designated withdrawal procedures and complete any required administrative or financial clearance.
+
+**Readmission | إعادة الالتحاق**
+
+Students who previously withdrew from or interrupted their studies may apply for readmission according to university regulations.
+
+Readmission may depend on academic standing, program eligibility, administrative approval, and financial requirements.
+
+Readmission is not automatically guaranteed.
+
+Sources:  
+https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=32&page=ProcedureDetails  
+https://www.ptuk.edu.ps/ar/aarticlepage.php?artid=190
+
+---
+
+## 11. ADMISSION FOR NEW STUDENTS | قبول الطلبة الجدد
+
+**Online Admission Application | طلب الالتحاق الإلكتروني**
+
+New students apply for admission through the official university admission service during the announced application period.
+
+Admission requirements depend on the academic program, degree level, and applicable university admission policies.
+
+Meeting the minimum requirements does not automatically guarantee acceptance.
+
+**Required Documents | الوثائق المطلوبة**
+
+Required admission documents may include:
+
+- Secondary-school transcript or equivalent certificate.
+- Proof of identity.
+- Birth certificate.
+- Additional documents required for particular programs or admission categories.
+
+Applicants must follow the current official admission announcement for the exact documents and conditions.
+
+**Completing Admission | استكمال إجراءات القبول**
+
+Accepted students follow the university's admission instructions to complete document submission, registration, and any applicable financial requirements.
+
+**Placement Tests | امتحانات المستوى**
+
+Some students may be required to take placement or level-assessment tests according to the applicable admission instructions.
+
+Requirements and exemptions should be confirmed through the official university announcements.
+
+Admission Information:  
+https://ptuk.edu.ps/admission_steps/
+
+Student Portal:  
+https://edugate.ptuk.edu.ps/
+
+---
+
+## 12. IMPORTANT ACADEMIC TERMS | مصطلحات أكاديمية مهمة
+
+**Course Registration | تسجيل المساقات**  
+Selecting and registering courses for an academic semester.
+
+**Add and Drop | السحب والإضافة**  
+Adding or removing courses during the regular permitted registration period.
+
+**Late Course Withdrawal | السحب المتأخر**  
+Withdrawing from a registered course after the regular Add and Drop Period.
+
+**Credit Hours | الساعات المعتمدة**  
+Units used to measure the academic weight of a course and the total number of hours registered by a student.
+
+**Academic Course Load | العبء الأكاديمي**  
+The total number of credit hours registered during one semester.
+
+**Academic Advisor | المرشد الأكاديمي**  
+A faculty member who helps students plan courses and follow their academic progress.
+
+**Semester GPA | المعدل الفصلي**  
+The academic average calculated for a particular semester.
+
+**Cumulative GPA | المعدل التراكمي**  
+The overall academic average calculated across applicable completed courses.
+
+**Study Deferment | تأجيل الدراسة**  
+Officially postponing study for an academic semester according to university regulations.
+
+**Academic Warning | الإنذار الأكاديمي**  
+An academic status resulting from failure to meet the university's required academic performance conditions.
+
+Source:  
+https://ptuk.edu.ps/ar/admissions/aarticlepage.php?artid=1860
+
+---
+
+## 13. UNIGUIDE AI RESPONSE GUIDELINES | تعليمات إجابات المساعد
+
+1. Answer registration questions using the available PTUK information and cite relevant official sources.
+
+2. When a student asks about registration dates, Add/Drop dates, or withdrawal dates, specify the academic semester and year.
+
+3. If the question is ambiguous and different semesters have different answers, ask which semester the student means.
+
+4. Understand informal student expressions. For example, "كم ساعة بقدر أنزل؟" is a question about the permitted number of credit hours, not about downloading files or materials.
+
+5. When asked about maximum or minimum credit hours without a semester, clarify whether the student means a regular semester or summer semester.
+
+6. Explain special conditions when credit-hour limits depend on academic warning, GPA, graduating status, or university approval.
+
+7. Do not state the summer 1–10 credit-hour range or the graduating-student exception as officially verified until an authoritative source is confirmed.
+
+8. Clearly distinguish between regular Add/Drop, late course withdrawal, study deferment, semester withdrawal, and university withdrawal.
+
+9. Do not present unverified course-level tuition refund rules as confirmed official policy.
+
+10. When official university sources conflict, explain the discrepancy instead of choosing an unsupported answer.
+
+11. If a specific student's registration date or eligibility cannot be determined from the available documents, state that the information is insufficient.
+
+12. Never invent dates, tuition fees, credit-hour limits, approvals, or academic regulations.
+
+13. Provide the relevant official source URL whenever possible.

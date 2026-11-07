@@ -1,0 +1,215 @@
+PTUK ACADEMIC STAFF DIRECTORY | دليل الهيئة التدريسية
+University: Palestine Technical University – Kadoorie (PTUK)
+Campus: Tulkarm | طولكرم
+Compiled: 2026-10-30
+Scope: Official faculty academic-staff pages. This is a verified initial extract and a directory of all faculty source pages, NOT a complete enumeration of every faculty member.
+University switchboard: +970 9 2688199
+
+IMPORTANT FOR UNIGUIDE AI | تعليمات مهمة
+- For questions about a professor's office, extension, academic title, or department, use a PERSON record matching their name. Do not combine office and telephone data from different people.
+- If a person has several department memberships, keep all of them; do not create contradictory identities.
+- Extensions '0', '00', '000', '0000', '0000000', or blank are NOT usable extensions. Say that the extension is not listed.
+- An empty room number means the office is not listed. Do not guess.
+- Faculty listings are subject to change. Provide the corresponding official staff-page link.
+- If details are absent from the available data, say: 'لم أجد هذه المعلومة في مصادر جامعة خضوري المتوفرة لدي حاليًا.' Do not claim the university has no such faculty member or does not publish the information anywhere.
+- Only publicly listed professional work contact information may be used. Do not invent or derive emails.
+
+SOURCE PAGES BY FACULTY | مصادر الكليات
+1. Faculty of Engineering and Technology | كلية الهندسة والتكنولوجيا
+https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=engineering-and-technology
+2. Faculty of Information Technology and Artificial Intelligence | كلية تكنولوجيا المعلومات والذكاء الاصطناعي
+https://www.ptuk.edu.ps/en/faculties/academic-staff.php?name=information-technology-and-artificial-intelligence
+3. Faculty of Applied Sciences | كلية العلوم التطبيقية
+https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=applied-sciences
+4. Faculty of Business and Economics | كلية الأعمال والاقتصاد
+https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=business-and-economics
+5. Faculty of Arts and Educational Sciences | كلية الآداب والعلوم التربوية
+https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=arts-and-educational-sciences
+6. Faculty of Physical Education and Sport Sciences | كلية التربية البدنية وعلوم الرياضة
+https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=physical-education-and-sport-sciences
+7. Faculty of Agricultural Engineering | كلية الهندسة الزراعية
+https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=agricultural-engineering
+8. Palestine Technical Community College – Kadoorie | كلية مجتمع فلسطين التقنية - خضوري
+https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=palestine-technical-community--kadoorie
+9. Faculty of Allied Medical Sciences | كلية العلوم الطبية المساندة
+https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=allied-medical-sciences
+Note: Its available academic-staff page lists departments but did not display staff profiles during review; do not infer no faculty exist.
+
+PERSON RECORDS | سجلات الطاقم الأكاديمي
+Record format: Name | Department | Office | Telephone extension
+Blank / invalid extensions are marked 'Not listed'. Professional email is obtainable from the official staff profile link when displayed there; no email address has been guessed.
+
+=== FACULTY OF ENGINEERING AND TECHNOLOGY | كلية الهندسة والتكنولوجيا ===
+Department: Computer Systems Engineering | هندسة أنظمة الحاسوب
+أ.د. يوسف دراغمة | H312 | Not listed
+د. رامي يوسف | H110 | 110
+د. اسامة حامد | H012 | Not listed
+د. انس ملحم | H316 | 1525
+د. ثائر سمار | H307 | Not listed
+د. شذى أبو شنب | H104 | 1524
+د. محمد خليل | H313 | 1538
+د. نائل سلمان | H314 | 1570
+أ. نغم حمد | H349 | 2110
+أ. أحمد ربايعة | Not listed | Not listed
+أ. يزيد سليط | H311 | 1558
+Department: Electrical Engineering | الهندسة الكهربائية
+أ.د. سامر السعدي | H203 | 2900
+د. بسام قاضي | H304L105 | 1564
+د. عرفات زيدان | H319 | 1503
+د. محمود اسماعيل | H309 | Not listed
+د. محمد دريدي | H318 | 1564
+د. معاذ وهدان | H306 | 1516
+أ. اسماء شرعب | H007 | 1549
+أ. ايمان أبو هاني | H349 | 2903
+أ. شهد سكر | H321 | 1535
+أ. علي شريدة | H202 | Not listed
+Department: Electrical Engineering - Industrial Automation | الهندسة الكهربائية - الأتمتة الصناعية
+أ.د. انيس ابو سنينه | H105 | 1505
+أ.د. وائل صلاح | H111 | 1540
+د. جعفر جلاد | H303 | 1572
+د. علا بدران | H308 | 1508
+أ. منتصر الضبع | H320 | 1515
+أ. نداء عبيد | H305 | 1534
+Source: https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=engineering-and-technology
+Note: Other engineering departments and staff also appear on the source page; this is not an exhaustive extraction.
+
+=== FACULTY OF INFORMATION TECHNOLOGY AND ARTIFICIAL INTELLIGENCE | كلية تكنولوجيا المعلومات والذكاء الاصطناعي ===
+Department: Computer Science | علم الحاسوب
+Eman Daraghmi | E218 | 1613
+Sherin Hijazi | E206 | 1676
+Areej Jaber | L205 | Not listed
+Hasan Alhajhamad | E208 | 1670
+Muhammed Saffarini | H-110 | 1603
+Saleh Salous | E330c | Not listed
+Alaa Hantouli | G105d | 1553
+Shadi Abu Aysheh | E120 | 1618
+Department: Information Systems | نظم المعلومات
+Abeer Qashou | A227 | 1924
+Mohammed Alhawamdeh | G116 | 2200
+Rania Alkhateeb | A227 | 1924
+Arwa Sukaina | G105b | 1551
+Bashar Abu-diak | E327 | 1621
+Mohamed Rami Isifan | A047 | 3007
+Waleed Ahmad | Not listed | Not listed
+Department: Artificial Intelligence | الذكاء الاصطناعي
+Mahmoud Jazzar | E330c | 1653
+Hadi Khalilia | Not listed | 1618
+Nashaat Jallad | E309 | 1927
+Rasha Safarini | Not listed | 1550
+Source: https://www.ptuk.edu.ps/en/faculties/academic-staff.php?name=information-technology-and-artificial-intelligence
+
+=== FACULTY OF APPLIED SCIENCES | كلية العلوم التطبيقية ===
+Department: Applied Mathematics | رياضيات تطبيقية
+أ.د. سائد ملاك | L209 | 1113
+د. خالدة نزال | E210 | 1667
+د. رانية ونان | E130 | 1600
+د. عبد القادر مصطفى | E207 | 790
+د. عطا ابو اسعد | E324 | 1144
+د. محمد جرار | E102 | Not listed
+د. محمد مراعبه | E119 | 1650
+د. بكر البدارين | E119 | 1629
+د. تقوى الخضر | E311 | 1675
+د. حنين غانم | B219 | Not listed
+د. رغد ابو شعر | E311 | 1677
+أ. جاسم بدران | E207 | 1657
+أ. كفاية عياش | E216 | 1658
+Department: Physics | الفيزياء
+أ.د. اسحق موسى | E118 | 1608
+أ.د. جهاد أسعد | L204 | 2900
+أ.د. حسين شنك | A151 | 1110
+أ.د. رباب جرار | E314 | 1600
+أ.د. رزق استيته | E209 | 1640
+د. كرم العواودة | E325 | Not listed
+د. نورهان شيخ ابراهيم | E323 | 1616
+أ. اسماء ياسين | E310 | 1612
+أ. حمدان دروبي | E118 | Not listed
+Source: https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=applied-sciences
+Note: More departments and members are available on the original page.
+
+=== FACULTY OF BUSINESS AND ECONOMICS | كلية الأعمال والاقتصاد ===
+Department: Computerized Banking and Financial Sciences | العلوم المالية والمصرفية المحوسب
+د. ايهاب القبج | Not listed | 1140
+د. تامر صبري | A112 | 1723
+د. عثمان صوافطة | A019 | Not listed
+د. عصام عياش | A214a | 1721
+د. محمد ابو عمشه | A115 | 1722
+د. احمد شويكة | A137 | 1120
+د. انس رزق مصري | A112 | 1723
+د. رائد القاروط | F003 | 2100
+د. فادي ابو دياك | H-103 | 1909
+د. فادي شحادة | A225 | Not listed
+Source: https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=business-and-economics
+Note: More departments and members are available on the original page.
+
+=== FACULTY OF ARTS AND EDUCATIONAL SCIENCES | كلية الآداب والعلوم التربوية ===
+Department: Technology Education | تربية تكنولوجية
+أ.د. جعفر ابو صاع | F206 | Not listed
+أ.د. مجدي جيوسي | E312 | 1160
+د. ريما دراغمة | B314 | 1645
+د. هشام شناعة | E330b | 1645
+د. رهام سلحب | B106 | 1647
+د. فيصل سباعنه | B315 | Not listed
+Department: Educational Qualification Diploma | دبلوم التأهيل التربوي
+أ.د. نهى عطير | D101 | 1626
+Source: https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=arts-and-educational-sciences
+Note: More departments and members are available on the original page.
+
+=== FACULTY OF PHYSICAL EDUCATION AND SPORT SCIENCES | كلية التربية البدنية وعلوم الرياضة ===
+Department: Physical Education | التربية الرياضية
+أ.د. بهجت ابو طامع | C013 | 1440
+أ.د. محمود عزب | C007 | 1931
+د. غيث ناصيف | C014 | 1969
+د. نضال القاسم | C007 | 1641
+د. عوض بدير | C009 | Not listed
+د. معتصم ابو عليا | C013 | 1944
+أ. لؤي حنون | Not listed | Not listed
+أ. نهاية سبوبي | C010 | 1942
+Department: Sports Training and Movement Sciences | التدريب الرياضي وعلوم الحركة
+أ.د. جمال ابو بشاره | C006 | 1300
+أ.د. مها جرّاد | C010 | 1645
+Source: https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=physical-education-and-sport-sciences
+Note: More members are available on the original page.
+
+=== FACULTY OF AGRICULTURAL ENGINEERING | كلية الهندسة الزراعية ===
+Department: Sustainable Environment and Agriculture | البيئة والزراعة المستدامة
+أ.د. باسل النتشة | E322a | 1802
+أ.د. تحسين سياعرة | Not listed | Not listed
+أ.د. سائد خياط | Not listed | 2000
+أ.د. محمود رحيل | E307 | 1817
+أ. اسامة خلف | E322a | 1814
+Department: Horticulture and Agricultural Extension | البستنة والإرشاد الزراعي
+أ.د. رنا قبج | A101 | Not listed
+د. يحيى استيته | G003 | 1300
+د. احمد عمارنه | E322b | 1904
+د. داود ابو صفية | E306 | 1815
+Source: https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=agricultural-engineering
+Note: More departments and members are available on the original page.
+
+=== PALESTINE TECHNICAL COMMUNITY COLLEGE | كلية مجتمع فلسطين التقنية - خضوري ===
+Department: Engineering Professions Program | برنامج المهن الهندسية
+أ. خالد الحافي | B217 | 1956
+أ. علي محمد | Not listed | 1947
+أ. لينا عموص | B213 | 1951
+أ. محمد سلامة | B211 | Not listed
+أ. مصطفى حمد | B212 | 1971
+أ. يزن النابلسي | B007 | Not listed
+أ. نداء حمدان | B213 | Not listed
+أ. محمد نموره | B207 | 1971
+Department: Computer Program | برنامج الحاسوب
+د. عبير قشوع | A227 | 1924
+أ. احمد تيم | A222 | Not listed
+أ. اوس رحال | A224 | Not listed
+أ. عثمان عمر | A224 | 1926
+أ. قاسم سلحب | A223 | 1923
+أ. اشرف خليل | A226 | 1920
+أ. عبد الله شكري | Not listed | 1920
+Source: https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=palestine-technical-community--kadoorie
+Note: More programs and members are available on the original page.
+
+=== FACULTY OF ALLIED MEDICAL SCIENCES | كلية العلوم الطبية المساندة ===
+Departments listed: Health Nutrition and Dietetics | التغذية الصحية والحميات; Medical Imaging and Diagnostic Radiology | التصوير الطبي والأشعة التشخيصية; Medical Laboratory Sciences | العلوم الطبية المخبرية.
+During review, the public academic-staff page did not display individual staff entries. This is NOT evidence that the college has no academic staff.
+Source: https://ptuk.edu.ps/ar/faculties/academic-staff.php?name=allied-medical-sciences
+
+END OF VERIFIED INITIAL EXTRACT
+Follow the links above for staff members not represented in this initial extract. Avoid claiming that this file contains all staff from PTUK Tulkarm campus.

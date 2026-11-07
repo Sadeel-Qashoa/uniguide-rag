@@ -1,0 +1,293 @@
+PTUK PRACTICAL AND FIELD TRAINING | التدريب العملي والميداني
+University: Palestine Technical University – Kadoorie (PTUK) | جامعة فلسطين التقنية – خضوري
+Campus Scope: Tulkarm | فرع طولكرم
+Knowledge Base Topic: Student practical/field training | التدريب العملي والميداني للطلبة
+
+IMPORTANT SCOPE NOTE | ملاحظة مهمة
+Practical training, field training, clinical training, and cooperative/integrated education are not necessarily the same university activity. Requirements differ by academic program, course, and study plan. Do not use the hours, prerequisites, or grading rules from one program as a universal requirement for every student.
+التدريب العملي والتدريب الميداني والتدريب السريري والتعليم التكاملي قد تكون مساقات أو أنظمة مختلفة. عدد الساعات والمتطلبات وآلية التقييم تختلف حسب التخصص والمساق والخطة الدراسية.
+
+=== 1. WHAT IS PRACTICAL / FIELD TRAINING? | ما هو التدريب العملي أو الميداني؟ ===
+Practical or field training allows students to apply academic knowledge in a real workplace, such as a company, factory, hospital, school, or other relevant institution, under the requirements of their program.
+التدريب العملي أو الميداني هو تطبيق ما تعلمه الطالب في بيئة عمل فعلية، حسب طبيعة تخصصه وتعليمات مساق التدريب.
+Student-language examples | أسئلة الطلاب:
+- كم ساعة تدريب علي؟
+- متى بقدر أسجل التدريب؟
+- بقدر أتدرب بالصيفي؟
+- كيف أعتمد التدريب؟
+- بقدر أختار الشركة لحالي؟
+- شو لازم أسلم بعد التدريب؟
+- How many training hours do I need?
+- When am I eligible for field training?
+- What reports or forms are required?
+
+=== 2. PRACTICAL TRAINING BY ACADEMIC PROGRAM | التدريب حسب التخصص ===
+The following records describe published field/practical training courses for Tulkarm programs. Course credit hours are NOT the same as workplace/contact hours. Where actual training duration or eligibility is not stated, it is NOT SPECIFIED IN THE CURRENTLY AVAILABLE SOURCE, not zero. An internship news story is not proof of a required course or its hours.
+الساعات المعتمدة للمساق تختلف عن ساعات التدريب الفعلية. إذا لم يرد عدد ساعات التدريب الفعلية أو شرط التسجيل في الوصف المتوفر، فالمعلومة غير مذكورة بالمصدر المتاح وليست صفرًا. لا تعتبر أخبار تدريب الطلاب دليلاً على عدد ساعات التدريب الإلزامي.
+
+PROGRAM 01
+Degree | الدرجة: BACHELOR | بكالوريوس
+Major | التخصص: Medical and Laboratory Sciences | العلوم الطبية المخبرية
+Training course | مساق التدريب: Practical Training | تدريب عملي
+Academic course credits | الساعات المعتمدة للمساق: 6
+Published information | المعلومات المنشورة: Each academic credit corresponds to 60 contact hours; clinical work includes blood banking, histopathology, and immunology/serology. This specific conversion is not university-wide.
+Source | المصدر: https://www.ptuk.edu.ps/ar/academic-programs/course-description.php?name=bachelor-of-medical-and-laboratory-sciences
+
+PROGRAM 02
+Degree | الدرجة: BACHELOR | بكالوريوس
+Major | التخصص: Computer Systems Engineering | هندسة أنظمة الحاسوب
+Training course | مساق التدريب: Program study plan / course descriptions | الخطة ووصف المساقات
+Academic course credits | الساعات المعتمدة للمساق: Not established from accessible description
+Required practical training duration | عدد ساعات التدريب العملي المطلوبة: 400 actual training hours | 400 ساعة تدريب فعلية (student-provided program information; not independently verified against the linked study plan).
+Published information | المعلومات المنشورة: The user confirmed that Computer Systems Engineering requires 400 actual practical training hours. The accessible official program description did not establish course credit hours or registration prerequisites. Do not infer these from internship stories.
+Source | المصدر: https://www.ptuk.edu.ps/ar/academic-programs/study-plan.php?name=bachelor-of-computer-systems-engineering
+
+PROGRAM 03
+Degree | الدرجة: BACHELOR | بكالوريوس
+Major | التخصص: Logistics Management | إدارة اللوجستيات
+Training course | مساق التدريب: Field Training | التدريب الميداني
+Academic course credits | الساعات المعتمدة للمساق: 0
+Published information | المعلومات المنشورة: Eligible after completing 80 academic credit hours; at least 160 actual workplace-training hours; report and academic-supervisor discussion.
+Source | المصدر: https://www.ptuk.edu.ps/ar/academic-programs/course-description.php?name=bachelor-of-logistics-management
+
+PROGRAM 04
+Degree | الدرجة: BACHELOR | بكالوريوس
+Major | التخصص: Marketing and E-Commerce | التسويق والتجارة الإلكترونية
+Training course | مساق التدريب: Field Training | التدريب الميداني
+Academic course credits | الساعات المعتمدة للمساق: 0
+Published information | المعلومات المنشورة: Six weeks of training in a related institution coordinated with department; submit report and discuss it with academic supervisor.
+Source | المصدر: https://ptuk.edu.ps/ar/academic-programs/course-description.php?name=bachelor-of-marketing-and-%D9%8F%D9%8Fe-commerce
+
+PROGRAM 05
+Degree | الدرجة: BACHELOR | بكالوريوس
+Major | التخصص: Accounting and Auditing | المحاسبة والتدقيق
+Training course | مساق التدريب: Field Training | التدريب الميداني
+Academic course credits | الساعات المعتمدة للمساق: 2
+Published information | المعلومات المنشورة: 200 actual workplace hours in accounting-related companies or institutions under academic supervision.
+Source | المصدر: https://www.ptuk.edu.ps/ar/academic-programs/course-description.php?name=bachelor-of-accounting-and-auditing
+
+PROGRAM 06
+Degree | الدرجة: BACHELOR | بكالوريوس
+Major | التخصص: Media Technology | تكنولوجيا الإعلام
+Training course | مساق التدريب: Field Training 1 and 2 | التدريب الميداني 1 و2
+Academic course credits | الساعات المعتمدة للمساق: 2 + 2
+Published information | المعلومات المنشورة: Training 1 requires 100 actual hours at a media institution. Training 2 is a further applied production experience with partner media organizations; exact actual hours not specified for Training 2.
+Source | المصدر: https://www.ptuk.edu.ps/ar/academic-programs/course-description.php?name=bachelor-of-media-technology
+
+PROGRAM 07
+Degree | الدرجة: BACHELOR | بكالوريوس
+Major | التخصص: Design and Applied Arts | التصميم والفنون التطبيقية
+Training course | مساق التدريب: Field Training 1 and 2 | التدريب الميداني 1 و2
+Academic course credits | الساعات المعتمدة للمساق: 1 + 1
+Published information | المعلومات المنشورة: Practical professional exposure with academic department follow-up; the second course extends workplace practice. Exact actual hours not specified.
+Source | المصدر: https://www.ptuk.edu.ps/ar/academic-programs/course-description.php?name=bachelor-of-design-and-applied-arts
+
+PROGRAM 08
+Degree | الدرجة: BACHELOR | بكالوريوس
+Major | التخصص: Decoration and Interior Design | الديكور والتصميم الداخلي
+Training course | مساق التدريب: Field Training 1 and 2 | التدريب الميداني 1 و2
+Academic course credits | الساعات المعتمدة للمساق: 2 + 2
+Published information | المعلومات المنشورة: Workplace training under departmental follow-up. Exact actual hours not specified in the available description.
+Source | المصدر: https://www.ptuk.edu.ps/ar/academic-programs/course-description.php?name=bachelor-of-decoration-and-interior-design
+
+PROGRAM 09
+Degree | الدرجة: BACHELOR | بكالوريوس
+Major | التخصص: Educational Technology | التربية التكنولوجية
+Training course | مساق التدريب: Field Training 1 and 2 | التدريب الميداني 1 و2
+Academic course credits | الساعات المعتمدة للمساق: 2 + 2
+Published information | المعلومات المنشورة: Training 1: observe teaching of technology in schools for two consecutive weeks. Training 2: teach technology in schools for two consecutive weeks.
+Source | المصدر: https://ptuk.edu.ps/ar/academic-programs/course-description.php?name=bachelor-of-educational-technology
+
+PROGRAM 10
+Degree | الدرجة: BACHELOR | بكالوريوس
+Major | التخصص: Sport Training and Kinesiology | التدريب الرياضي وعلوم الحركة
+Training course | مساق التدريب: Field Training in Schools | التدريب الميداني في المدارس
+Academic course credits | الساعات المعتمدة للمساق: 2
+Published information | المعلومات المنشورة: Applied teaching, sports team training and related school duties under department/school supervision. Exact workplace hours not specified.
+Source | المصدر: https://ptuk.edu.ps/ar/academic-programs/course-description.php?name=bachelor-of-sport-training-and-kinesiology
+
+PROGRAM 11
+Degree | الدرجة: INTERMEDIATE DIPLOMA | دبلوم متوسط
+Major | التخصص: Food Manufacturing | التصنيع الغذائي
+Training course | مساق التدريب: Field Training 1 and 2 | التدريب الميداني 1 و2
+Academic course credits | الساعات المعتمدة للمساق: 2 + 2
+Published information | المعلومات المنشورة: Training 1: 120 actual hours after second semester and before third as described; Training 2: another 120 actual hours in fourth semester.
+Source | المصدر: https://ptuk.edu.ps/ar/academic-programs/course-description.php?name=diploma-of-food-manufacturing
+
+PROGRAM 12
+Degree | الدرجة: INTERMEDIATE DIPLOMA | دبلوم متوسط
+Major | التخصص: Programming Computer Applications and Web Pages | برمجة تطبيقات الحاسوب وصفحات الويب
+Training course | مساق التدريب: Field Training | التدريب الميداني
+Academic course credits | الساعات المعتمدة للمساق: 2
+Published information | المعلومات المنشورة: IT-company workplace training coordinated with college; daily task reports, detailed final report, and workplace assessment; exact actual hours not specified.
+Source | المصدر: https://ptuk.edu.ps/ar/academic-programs/course-description.php?name=diploma-of-programming-computer-applications-and-web-pages
+
+PROGRAM 13
+Degree | الدرجة: INTERMEDIATE DIPLOMA | دبلوم متوسط
+Major | التخصص: Computer Networks | شبكات الحاسوب
+Training course | مساق التدريب: Field Training | التدريب الميداني
+Academic course credits | الساعات المعتمدة للمساق: 3
+Published information | المعلومات المنشورة: 80 actual workplace-training hours.
+Source | المصدر: https://ptuk.edu.ps/ar/academic-programs/course-description.php?name=diploma-of-computer-network
+
+PROGRAM 14
+Degree | الدرجة: INTERMEDIATE DIPLOMA | دبلوم متوسط
+Major | التخصص: Telecommunications Engineering Technology | تكنولوجيا هندسة الاتصالات
+Training course | مساق التدريب: Field Training 1 and 2 | التدريب الميداني 1 و2
+Academic course credits | الساعات المعتمدة للمساق: 2 + 2
+Published information | المعلومات المنشورة: Training 1 applies skills in the workplace; Training 2 integrates into related community organizations. Training 2 follows Training 1 in the study plan. Exact actual hours not specified.
+Source | المصدر: https://ptuk.edu.ps/ar/academic-programs/course-description.php?name=diploma-of-telecommunications-engineering-technology
+
+PROGRAM 15
+Degree | الدرجة: INTERMEDIATE DIPLOMA | دبلوم متوسط
+Major | التخصص: Smartphones and Telecommunications Technology | تكنولوجيا الهواتف الذكية والاتصالات
+Training course | مساق التدريب: Field Training 1 and 2 | التدريب الميداني 1 و2
+Academic course credits | الساعات المعتمدة للمساق: 2 + 2
+Published information | المعلومات المنشورة: Both courses listed; exact practical-hour totals not specified in the available course listing.
+Source | المصدر: https://ptuk.edu.ps/ar/academic-programs/course-description.php?name=diploma-of-smartphones-and-telecommunication-technology
+
+PROGRAM 16
+Degree | الدرجة: INTERMEDIATE DIPLOMA | دبلوم متوسط
+Major | التخصص: Intelligent Systems in Buildings | الأنظمة الذكية في المباني
+Training course | مساق التدريب: Field Training 1 | التدريب الميداني 1
+Academic course credits | الساعات المعتمدة للمساق: 2
+Published information | المعلومات المنشورة: Hands-on training in university labs and with organizations working on building-management and automation systems under faculty supervision; exact actual hours not specified.
+Source | المصدر: https://ptuk.edu.ps/ar/academic-programs/course-description.php?name=diploma-of-intelligent-systems-in-buildings
+
+PROGRAM 17
+Degree | الدرجة: INTERMEDIATE DIPLOMA | دبلوم متوسط
+Major | التخصص: Architectural Engineering | الهندسة المعمارية
+Training course | مساق التدريب: Field Training 2 | التدريب الميداني 2
+Academic course credits | الساعات المعتمدة للمساق: 2
+Published information | المعلومات المنشورة: Practical work in an engineering office including drawing real projects, site visits and exposure to finishes; exact actual hours not specified.
+Source | المصدر: https://ptuk.edu.ps/ar/academic-programs/course-description.php?name=diploma-of-architectural-engineering
+
+PROGRAM 18
+Degree | الدرجة: INTERMEDIATE DIPLOMA | دبلوم متوسط
+Major | التخصص: Technical Accounting | المحاسبة التقنية
+Training course | مساق التدريب: Field Training 1 and 2 | التدريب الميداني 1 و2
+Academic course credits | الساعات المعتمدة للمساق: 2 + 2
+Published information | المعلومات المنشورة: Training 1 practices accounting in companies; Training 2 covers accounting/tax tasks in organizations or accounting offices; Training 2 has prerequisite Training 1 in plan. Actual hours not specified.
+Source | المصدر: https://ptuk.edu.ps/ar/academic-programs/course-description.php?name=diploma-of-technical-accounting
+
+PROGRAM 19
+Degree | الدرجة: INTERMEDIATE DIPLOMA | دبلوم متوسط
+Major | التخصص: Media Technology | تكنولوجيا الإعلام
+Training course | مساق التدريب: Field Training | التدريب الميداني
+Academic course credits | الساعات المعتمدة للمساق: 2
+Published information | المعلومات المنشورة: Work-based practical experience in media organizations in coordination with the college. Actual hours not specified.
+Source | المصدر: https://www.ptuk.edu.ps/ar/academic-programs/course-description.php?name=diploma-of-media-technology
+
+PROGRAM 20
+Degree | الدرجة: INTERMEDIATE DIPLOMA | دبلوم متوسط
+Major | التخصص: Interior Design and Decoration | التصميم الداخلي والديكور
+Training course | مساق التدريب: Field Training 1 and 2 | التدريب الميداني 1 و2
+Academic course credits | الساعات المعتمدة للمساق: 1 + 1
+Published information | المعلومات المنشورة: Two field-training courses shown in official program descriptions. Actual training hours not specified.
+Source | المصدر: https://www.ptuk.edu.ps/ar/academic-programs/course-description.php?name=diploma-of-interior-design-and-decoration
+
+PROGRAM 21
+Degree | الدرجة: INTERMEDIATE DIPLOMA | دبلوم متوسط
+Major | التخصص: Graphic Design | التصميم الجرافيكي
+Training course | مساق التدريب: Field Training | التدريب الميداني
+Academic course credits | الساعات المعتمدة للمساق: 3
+Published information | المعلومات المنشورة: Field-training course is listed; precise workplace hours and requirements not specified in the available course entry.
+Source | المصدر: https://www.ptuk.edu.ps/ar/academic-programs/course-description.php?name=diploma-of-graphic-design
+
+PROGRAM 22
+Degree | الدرجة: INTERMEDIATE DIPLOMA | دبلوم متوسط
+Major | التخصص: Fashion Design and Dress Making | تصميم الأزياء وتصنيع الملابس
+Training course | مساق التدريب: Field Training 2 | التدريب الميداني 2
+Academic course credits | الساعات المعتمدة للمساق: 3
+Published information | المعلومات المنشورة: Advanced field training continues Training 1; requires weekly reports and industry-related practical work. Training 1 details and exact work hours not established in the reviewed excerpt.
+Source | المصدر: https://www.ptuk.edu.ps/ar/academic-programs/course-description.php?name=diploma-of-fashion-design-and-dress-making
+
+PROGRAM 23
+Degree | الدرجة: INTERMEDIATE DIPLOMA | دبلوم متوسط
+Major | التخصص: Design and Decoration of External Spaces | تصميم وديكور الفراغات الخارجية
+Training course | مساق التدريب: Field Training 1 | التدريب الميداني 1
+Academic course credits | الساعات المعتمدة للمساق: 2
+Published information | المعلومات المنشورة: Engineering-office field visits and practical exposure to construction projects, drawing, landscaping, and plant nurseries; exact actual hours not specified.
+Source | المصدر: https://www.ptuk.edu.ps/ar/academic-programs/course-description.php?name=diploma-of-design-and-decoration-of-external-spaces
+
+OTHER TULKARM PROGRAMS | باقي تخصصات طولكرم:
+If a program is not listed above, do NOT conclude that the major has no training, or that PTUK has not published information anywhere. The current compiled knowledge file does not contain a verified major-specific training requirement for that program; direct the student to the official program study plan/course description and relevant department. This also applies to any program listed above for details not specified (eligibility, required actual hours, exact forms).
+إذا تخصص الطالب مش مذكور بالقائمة، لا تفترض إنه ما عنده تدريب. احكي إن تفاصيل التدريب لهذا التخصص غير متوفرة في المصادر المتاحة للمساعد حاليًا، واقترح عليه خطة التخصص أو القسم. وكذلك إذا التخصص مذكور لكن عدد ساعات التدريب الفعلية مش محدد، لا تخترع عددًا.
+Program directory: https://ptuk.edu.ps/ar/academic-programs/
+
+=== 3. HOW TO REGISTER FOR TRAINING | كيف يسجل الطالب التدريب؟ ===
+A student should check their specific study plan, the training-course prerequisite, the relevant department's instructions, and the student portal's course availability. Being eligible to enroll in a course does not automatically establish approval of a particular workplace.
+على الطالب مراجعة خطته الدراسية، والمتطلب السابق لمساق التدريب، وتعليمات القسم، وتوفر المساق على البوابة. الموافقة على جهة تدريب معينة قد تحتاج تنسيقًا مع القسم أو المشرف.
+Do not invent a universal number of credit hours needed before training: the published logistics example requires 80 completed credit hours, but that cannot be generalized to other majors.
+
+=== 4. CHOOSING A TRAINING ORGANIZATION | اختيار جهة التدريب ===
+Training is intended to take place in an organization relevant to the student's major. Published course descriptions refer to coordination with the academic department or college. Some integrated education programs use lists of partner organizations.
+يجب أن تناسب جهة التدريب تخصص الطالب، مع مراعاة متطلبات القسم وموافقاته. لا تفترض أن الطالب يستطيع اعتماد أي شركة دون التنسيق المطلوب.
+For a specific student's question about a chosen company, the exact approval procedure is not established in this knowledge file; the student should contact their department or academic training supervisor.
+
+=== 5. TRAINING DOCUMENTS AND REPORTS | أوراق التدريب والتقارير ===
+Document requirements are program-dependent. Examples of possible documents, especially for integrated/cooperative programs, include:
+- Training letter | كتاب التدريب.
+- Training contract | عقد التدريب.
+- Training plan | الخطة التدريبية.
+- Attendance sheet | كشف الدوام.
+- Midterm or monthly training report | تقرير تدريب نصفي أو شهري.
+- Workplace supervisor's final evaluation | تقييم المشرف الميداني.
+- Student training program feedback | تقييم الطالب للبرنامج التدريبي.
+Not every document on this list is required for every conventional field-training course.
+Source for integrated/cooperative training: https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=107&page=ProcedureDetails
+
+=== 6. DURING THE TRAINING | أثناء التدريب ===
+The student should follow approved training instructions, attend the training workplace as required, complete assigned practical tasks, and submit reports or attendance documentation required by the specific course.
+يقوم الطالب بالالتزام بالدوام والتعليمات في مكان التدريب، وتنفيذ المهام، وتسليم التقارير المطلوبة لمساقه.
+Some course descriptions explicitly require reports and meetings with the academic supervisor. Integrated education procedures additionally describe periodic academic supervision and possible workplace visits.
+
+=== 7. EVALUATION AND APPROVAL | التقييم واعتماد التدريب ===
+The assessment method must be taken from the specific course or academic program; there is no verified universal percentage distribution for all PTUK field-training courses in this file.
+طريقة احتساب علامة التدريب تختلف بحسب المساق أو البرنامج؛ لا تعمم نسب تقييم التعليم التكاملي على التدريب العادي.
+For integrated education courses covered by PTUK's published integrated-training supervision procedure, the evaluation distribution is:
+- 50% academic supervisor | 50% المشرف الأكاديمي.
+- 25% workplace supervisor | 25% المشرف الميداني.
+- 25% joint evaluation based on the field visit | 25% تقييم مشترك بناءً على الزيارة الميدانية.
+This 50/25/25 distribution applies to the specified integrated education procedure only, not automatically to all training courses.
+Source: https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=107&page=ProcedureDetails
+
+The PTUK grade-entry procedure states that lecturers supervising field training submit field-training results to Admissions and Registration during the practical final-examination week for the first and second semesters, under the relevant training procedure. This is an administrative deadline for supervisors, not necessarily a student report deadline.
+Source: https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=114&page=ProcedureDetails
+
+=== 8. SUMMER TRAINING, PAID TRAINING, AND OUTSIDE ORGANIZATIONS | الصيفي والأجر والتدريب الخارجي ===
+Summer training | التدريب الصيفي:
+Whether a student can complete or officially register training during summer depends on the program, academic course offering, and departmental approval. Some program descriptions schedule training between semesters, but this does not prove every major accepts summer training.
+
+Paid or unpaid training | التدريب المدفوع أو غير المدفوع:
+The collected official course and procedure descriptions do not establish a university-wide requirement that companies must pay students for practical training. Payment depends on the training arrangement and the host organization; do not promise a salary or stipend.
+
+Training at a student-selected organization | التدريب في شركة من اختيار الطالب:
+Departmental coordination and approval may be required. The student should verify suitability and paperwork before beginning the training.
+
+=== 9. OFFICIAL FORMS AND REFERENCES | النماذج والمراجع الرسمية ===
+Integrated Education Training Supervision Procedure | إجراء الإشراف على تدريب طلاب التعليم التكاملي:
+https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=107&page=ProcedureDetails
+
+PTUK Work Procedures Manual | دليل إجراءات العمل:
+https://ptuk.edu.ps/procedures_manual_3/
+
+Field-Training Results and Grade Entry Procedure | إجراء إدخال العلامات ونتائج التدريب الميداني:
+https://ptuk.edu.ps/procedures_manual_3/Dashboard.php?id=114&page=ProcedureDetails
+
+Official Program Descriptions | أوصاف البرامج والمساقات:
+https://ptuk.edu.ps/ar/academic-programs/
+
+The specific form files are listed in the integrated education procedure. Do not supply a form URL for a particular course unless the corresponding official form link is established.
+
+=== 10. UNIGUIDE AI RESPONSE NOTES | ملاحظات الإجابة ===
+- For questions about training requirements, ask for the student's major if missing.
+- Answer with the specific program and degree, and distinguish workplace/contact hours (ساعات تدريب فعلية) from academic course credits (ساعات معتمدة).
+- Do not transfer training requirements, prerequisites, duration or grades across majors or campuses.
+- If the requested training information cannot be found in the available official PTUK sources, say clearly: "لم أجد معلومات محددة عن هذا الموضوع في مصادر جامعة خضوري المتوفرة لدي حاليًا. يُفضّل مراجعة القسم الأكاديمي أو مشرف التدريب للحصول على التفاصيل."
+- English fallback: "I could not find specific information about this in the PTUK sources currently available to me. Please contact your academic department or training supervisor for details."
+- Do not claim that PTUK has never published the information; only say it is missing from the knowledge currently available to UniGuide AI.
+- If the official description lists a field-training course but no actual number of required hours, tell the student that the course is listed and that the number of actual training hours is not specified in the source; do not answer zero.
+- Distinguish conventional field training from integrated/cooperative education, student exchange, and voluntary or non-credit internships.
+- If the student asks whether a company placement counts, do not promise approval without department validation.
+- Cite the official program or procedure URL and do not invent hours, dates, fees, forms, eligibility, salaries, or approvals.

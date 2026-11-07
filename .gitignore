@@ -1,5 +1,19 @@
+
+# Secret keys
 .env
+.env.*
+
+# Virtual environment
 .venv/
+venv/
+
+# Python temporary files
 __pycache__/
 *.pyc
+
+# Local database
 chroma_db/
+
+# IDE settings
+.idea/
+.vscode/

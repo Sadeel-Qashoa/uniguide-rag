@@ -1,0 +1,138 @@
+PTUK UNIVERSITY CONTACTS | جهات الاتصال في جامعة فلسطين التقنية – خضوري
+Campus: Tulkarm only | فرع طولكرم فقط
+Compiled: 2026-10-30
+Purpose: UniGuide AI student-facing knowledge base
+
+IMPORTANT | مهم
+- Contact information below is from official PTUK university pages. Individual office holders, room assignments, phone extensions, and published contact details can change.
+- A university-wide switchboard is NOT the same as a direct line to an office. State clearly when only the main university phone is available.
+- If a direct contact, office number, or extension is unavailable in these sources, say it is not available in the current knowledge base. Do not invent one.
+- This file covers administrative offices. Faculty members and lecturers are handled separately in academic_staff.txt.
+
+=== 1. MAIN CAMPUS | الحرم الرئيسي ===
+University: Palestine Technical University – Kadoorie (PTUK) | جامعة فلسطين التقنية – خضوري
+Campus: Tulkarm | طولكرم
+Address: Jaffa Street, Tulkarm, Palestine | شارع يافا، طولكرم، فلسطين
+P.O. Box: 7
+Main university phone / switchboard: +970 9 2688199
+Additional university phone: +970 9 2677922
+General email: info@ptuk.edu.ps
+Official site: https://ptuk.edu.ps/
+Source: https://ptuk.edu.ps/ar/deanships/contact.php
+
+=== 2. ADMISSIONS AND REGISTRATION | القبول والتسجيل ===
+Unit: Admissions and Registration | وحدة القبول والتسجيل
+Main published admissions email: dar@ptuk.edu.ps
+Main university phone / switchboard: +970 9 2688199
+Specific direct extension: Not established in the sources listed here.
+Covers: application/admission inquiries, course registration, academic records, and registration procedures.
+Official admissions website: https://ptuk.edu.ps/ar/admissions/
+Student electronic portal: https://edugate.ptuk.edu.ps/
+Source for contact email and phone: https://ptuk.edu.ps/ar/deanships/contact.php
+Source for admissions services: https://ptuk.edu.ps/ar/admissions/
+
+=== 3. FINANCIAL DEPARTMENT | الدائرة المالية ===
+Department: Financial Department | الدائرة المالية
+Handles student inquiries about tuition bills, payments, and financial records as appropriate to the relevant finance section.
+University switchboard: +970 9 2688199
+Published administration contacts from the university page:
+- Financial Department Director | مدير الدائرة المالية: Munther Zaidan | منذر زيدان. Office: D125. Extension: 2500.
+- Head of Accounting | رئيس قسم المحاسبة: Bayan Hussein | بيان حسين. Office: D126. Extension: 2501.
+- Head of Cashier Section | رئيس قسم الصندوق: Israa Abu Asaad | إسراء أبو أسعد. Office: D123. Extension: 2512.
+- Head of Financial Audit | رئيس قسم التدقيق المالي: Samaher Zabadi | سماهر زبادي. Office: D124. Extension: 2504.
+The extensions are reached through the university telephone system; do not treat them as independent mobile numbers.
+Source: https://ptuk.edu.ps/ar/offices-units-divisions/administrative-staff.php?name=finance
+
+=== 4. DEANSHIP OF STUDENT AFFAIRS | عمادة شؤون الطلبة ===
+Unit: Deanship of Student Affairs | عمادة شؤون الطلبة
+Covers: student activities, complaints, counseling, student support, scholarships/loans coordination, and related student services.
+Main university phone: +970 9 2688199
+Administrative contact listing (roles and appointments may change):
+- Dean listed on the directory | العميد المذكور في الدليل: Yahya Istaitih | يحيى استيته. Office: G003. Extension: 1300.
+- Assistant Dean listed on the directory | مساعد العميد: Maher Abu Baker | ماهر أبو بكر. Office: G005. Extension: 1410.
+- Secretary listed on the directory | السكرتارية: Duaa Greefat | دعاء غريفات. Office: G004. Extension: 1301.
+Deanship information: https://ptuk.edu.ps/ar/deanships/deanship.php?name=students-affairs
+Deanship contacts directory: https://ptuk.edu.ps/ar/deanships/administrative-staff.php?name=students-affairs
+Sources: https://ptuk.edu.ps/ar/deanships/about.php?name=students-affairs
+         https://ptuk.edu.ps/ar/deanships/administrative-staff.php?name=students-affairs
+
+=== 5. COUNSELING AND GUIDANCE | الإرشاد والتوجيه ===
+Unit: Guidance Department | دائرة الإرشاد والتوجيه
+Helps with: academic adjustment, student guidance, student concerns and individual counseling.
+Head listed on official department page: Najah Olwan | نجاح علوان
+Office: G001
+Main university phone: +970 9 2688199
+Extension: 1306
+Source: https://ptuk.edu.ps/en/deanships/department.php?name=advising-and-guidance
+
+=== 6. LOANS, GRANTS AND STUDENT ASSISTANCE | القروض والمنح والمساعدات ===
+Unit: Loans, Grants and Aid Department, under the Deanship of Student Affairs.
+Arabic: دائرة القروض والمنح والمساعدات / عمادة شؤون الطلبة
+Use for: guidance about student loans, grants, and student assistance inquiries.
+Dedicated phone or email: Not established in current sources.
+Main university phone: +970 9 2688199
+Student Affairs main page: https://ptuk.edu.ps/ar/deanships/deanship.php?name=students-affairs
+Department listing: https://ptuk.edu.ps/en/deanships/departments.php?name=students-affairs
+Detailed grant eligibility belongs in scholarships_and_loans.txt, not this contacts file.
+
+=== 7. STUDENT HEALTH AND MEDICAL SERVICES | الخدمات الطبية والعيادة ===
+Unit: Medical Clinics | العيادة والخدمات الطبية
+For medical services and questions about medical excuses, direct students to the clinic and Student Affairs procedures.
+Dedicated clinic phone/office number: Not established in current sources.
+Main university phone: +970 9 2688199
+Medical services department: https://ptuk.edu.ps/ar/deanships/department.php?name=medical-services
+Detailed eligibility/procedures belong in student_services.txt.
+
+=== 8. UNIVERSITY LIBRARY | مكتبة الجامعة ===
+Unit: University Library | مكتبة الجامعة
+For borrowing, library accounts, resources, and library services.
+Dedicated extension or email: Not established in current sources.
+Main university phone: +970 9 2688199
+Library website: https://library.ptuk.edu.ps/
+Note: If a library contact is not listed, direct students to the official library website or general switchboard rather than giving an invented extension.
+
+=== 9. IT SYSTEMS AND TECHNICAL SUPPORT | الأنظمة والدعم الفني ===
+Relevant administrative offices: Networks and Information Security; Data and Systems; Maintenance and Technical Support; Systems and Development.
+Arabic: دائرة الشبكات وأمن المعلومات، دائرة البيانات والنظم، دائرة الصيانة والدعم الفني، دائرة الأنظمة والتطوير.
+Students experiencing technical difficulties with the portal or university systems should follow official support channels.
+Dedicated helpdesk phone or email: Not established in current sources.
+Main university phone: +970 9 2688199
+Administrative offices directory: https://ptuk.edu.ps/ar/offices-units-divisions/
+Student portal: https://edugate.ptuk.edu.ps/
+
+=== 10. MEDIA AND PUBLIC RELATIONS | الإعلام والعلاقات العامة ===
+Unit: Media and Public Relations | وحدة الإعلام والعلاقات العامة
+Director listed on official page: Azmi Al Saleh | عزمي الصالح
+Office: A103
+Extension: 1106
+Published official work email: a.saleh@ptuk.edu.ps
+Main university phone: +970 9 2688199
+Source: https://ptuk.edu.ps/ar/offices-units-divisions/administrative-staff.php
+
+=== 11. UNIVERSITY LEGAL AFFAIRS | الشؤون القانونية ===
+Unit: Legal Affairs | وحدة الشؤون القانونية
+Director listed on official page: Amjad Zidat | أمجد زيدات
+Office: L212
+Extension: 2400
+Published official email: a.zidat@ptuk.edu.ps
+Main university phone: +970 9 2688199
+Source: https://ptuk.edu.ps/ar/offices-units-divisions/administrative-staff.php
+
+=== 12. WHERE TO FIND UPDATED CONTACTS | أين أجد معلومات التواصل المحدثة؟ ===
+Official administrative offices: https://ptuk.edu.ps/ar/offices-units-divisions/
+Official administrative staff directory: https://ptuk.edu.ps/ar/offices-units-divisions/administrative-staff.php
+University employee directory: https://ptuk.edu.ps/Employees_Daleel/staff.php?page=1&workplace=1
+Academic staff are documented in academic_staff.txt and in each faculty's official academic staff page.
+General university switchboard: +970 9 2688199
+
+=== UNIGUIDE RESPONSE RULES | قواعد إجابة المساعد ===
+- Scope: Tulkarm campus only. Do not substitute contacts from Ramallah or Al-Arroub branches.
+- Distinguish the general university phone from an office-specific extension or direct number.
+- Give the exact office and extension only when the verified source associates them with that office or person.
+- If a student asks "مين أتواصل معه بخصوص القسط؟" direct to the Financial Department and mention available contact information.
+- If a student asks "شو إيميل التسجيل؟" answer dar@ptuk.edu.ps and identify it as the published admissions/registration email.
+- If a student asks "وين مكتب فلان؟" search the relevant administrative or academic staff directory; do not guess.
+- If information is absent, answer: "لم أجد رقمًا أو وسيلة تواصل محددة لهذه الجهة ضمن مصادر خضوري المتوفرة لدي حاليًا. يمكنك التواصل مع مقسم الجامعة على +970 9 2688199 أو مراجعة الدليل الرسمي."
+- Do not claim that contact information does not exist anywhere on the university website when it is merely absent in the current knowledge base.
+- When possible include the supporting official source link.
+- Never invent a personal mobile phone, office number, email, staff appointment, or extension.
